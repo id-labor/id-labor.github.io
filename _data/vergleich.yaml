@@ -1,0 +1,36 @@
+- name: kostenlose persönliche Beratung
+  normal: ja
+  smart: ja
+- name: Untersuchung von 16-65 DNA-Merkmalen
+  normal: ja
+  smart: ja
+- name: ausführliches, richtlinienkonformes Gutachten, zur Vorlage bei Behörden geeignet
+  normal: ja
+  smart: ja
+- name: Vater - Mutter - Kind
+  normal: ja
+  smart: ja
+- name: Vater - Kind
+  normal: ja
+  smart: nur bei volljährigen Kindern
+- name: Kosten für weitere Person (Vater oder Kind)
+  normal: 260,00€
+  smart: 180,00€ (nicht nachträglich)
+- name: kostenloses Testset an die Beteiligten
+  normal: ja
+  smart: nein
+- name: Hilfe bei der Suche nach geeigneten Stellen für die Probenentnahmen
+  normal: ja
+  smart: nein
+- name: Versand von Entnahmematerial an unterschiedliche Stellen
+  normal: ja
+  smart: nein
+- name: Korrespondenz mit Anwälten, Behörden oder Ärzten
+  normal: ja
+  smart: nein
+- name: getrennte Probenentnahme möglich
+  normal: ja
+  smart: nein
+- name: Ratenzahlung
+  normal: ja
+  smart: nein

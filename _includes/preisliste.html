@@ -1,0 +1,18 @@
+<table class="table table-striped td-right table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Leistung</th>
+      <th scope="col">Preis&#42;</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for item in site.data.preise %}
+    <tr>
+      <th scope="row">{{item.name}}</th>
+      <td>{{item.preis}}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+&#42;	inkl. MwSt, Änderungen vorbehalten<br><br>

@@ -1,0 +1,30 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+permalink: /faq
+title: FAQ
+headtitle: ID-Labor GmbH - FAQ
+description: Häufig gestellte Fragen rund um DNA-Analyse und Vaterschaftstests
+---
+
+<div class="accordion" id="accordionExample">
+  {% for item in site.data.faq %}
+  <div class="card">
+    <div class="card-header" id="heading{{item.id}}">
+      <h2 class="mb-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapse{{item.id}}" aria-expanded="true" aria-controls="collapseOne">
+          {{item.q}}
+        </button>
+      </h2>
+    </div>
+
+    <div id="collapse{{item.id}}" class="collapse" aria-labelledby="heading{{item.id}}" data-parent="#accordionExample">
+      <div class="card-body">
+        {{item.a}}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>

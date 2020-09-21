@@ -1,0 +1,24 @@
+- name: DNA-Vaterschaftstest (Vater/Kind, Vater/Kind/Mutter) bzw. DNA-Mutterschaftstest (Mutter/Kind), Untersuchung von mindestens 16 STR-Systemen
+  preis: 450,00€
+- name: Untersuchung von bis zu 49 weiteren STR-Systemen, wenn wissenschaftlich erforderlich
+  preis: 0,00€
+- name: Zusatzkosten für gerichtliche Verwertbarkeit (Kosten für die Identitätsfeststellung durch Dritte sind nicht berücksichtigt)
+  preis: 0,00€
+- name: Zusendung des Testergebnisses 2-5 Arbeitstage nach Auftragseingang
+  preis: 0,00€
+- name: Express&#58; Zusendung des Testergebnisses am Tag nach Auftragseingang (nur nach Absprache möglich)
+  preis: +499,00€
+- name: Folgegutachten (weiteres Kind oder alternatives Elternteil)
+  preis: 260,00€
+- name: Mehraufwandpauschale bei "Missing Child"-Fall
+  preis: 120,00€
+- name: Kostenpauschale bei alternativem Probenmaterial (z.B. Blut) pro Analyseversuch
+  preis: 30,00€
+- name: Persönliches DNA-Profil (genetischer Fingerabdruck, 16 STR-Systeme)
+  preis: 140,00€
+- name: Zwillingsanalyse (16 STR-Systeme)
+  preis: 280,00€
+- name: Verwandtschaftsanalyse (mind. 24 STR-Systeme)<br>Analysekosten pro untersuchter Person<br>Statistische Auswertung und Erstattung eines Gutachtens
+  preis: <br>195,00€<br>240,00€
+- name: X- bzw. Y-chromosomale Verwandtschaftsanalyse (8 bzw. 17 STR-Systeme)<br>Analysekosten pro untersuchter Person<br>Statistische Auswertung und Erstattung eines Gutachtens
+  preis: <br>140,00€<br>120,00€

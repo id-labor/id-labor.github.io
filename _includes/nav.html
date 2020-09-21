@@ -1,0 +1,36 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="/"><img src="/assets/id-logo.png" width="100px"> ID-Labor <span>GmbH<span></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto  justify-content-end">
+        {% for item in site.data.toc %}
+          {% if item.subfolderitems[0] %}
+            <li class="nav-item dropdown">
+              {% capture current %}
+
+              {% endcapture %}
+              {% for subentry in item.subfolderitems %}
+                  {% if subentry.url == include.current %}
+                    {% capture current %}
+                    current
+                    {% endcapture %}
+                  {% endif %}
+              {% endfor %}
+              <a class="nav-link dropdown-toggle {{current}}" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                {{ item.page }}
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                {% for subentry in item.subfolderitems %}
+                    <a class="dropdown-item {% if subentry.url == include.current %}current{% endif %}" href="{{ subentry.url }}">{{ subentry.page }}</a>
+                {% endfor %}
+              </div>
+            </li>
+          {% elsif true %}
+            <li class="nav-item"><a class="nav-link {% if item.url == include.current %}current{% endif %}" href="{{ item.url }}">{{ item.page }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+  </div>
+</nav>
