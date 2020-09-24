@@ -6,6 +6,7 @@
       padding: 0 20%;
       margin: 2em 5em;
     }
+
 }
 
 @media screen
@@ -14,6 +15,14 @@
     .carousel{
       padding: 0 2em;
       margin: 2em 0;
+    }
+
+    nav img{
+      width: 50px;
+    }
+
+    .navbar-brand{
+      font-size: 1rem;
     }
 }
 
@@ -33,6 +42,8 @@
       padding: 0 3em;
       margin: 2em 0;
     }
+
+
 }
 
 *{
@@ -66,21 +77,6 @@ body{
   font-size: .8em;
 }
 
-.centered{
-  text-align: center;
-}
-
-.left{
-  text-align: left;
-}
-
-.right{
-  text-align: right;
-}
-
-.row div{
-    margin-bottom: 1em;
-}
 
 nav.navbar{
   padding: .5rem 2em;
@@ -95,13 +91,6 @@ a, .btn-link{
   transition: all .1s linear;
 }
 
-/*354d98*/
-
-.btn-primary{
-  background-color: #354d98;
-  border-color: #354d98;
-}
-
 a:hover, .btn-link:hover{
   text-decoration: underline;
   color: #7e1b1b;
@@ -113,22 +102,6 @@ a:hover, .btn-link:hover{
 
 .container{
   text-align: justify;
-}
-
-#scrollspy{
-  position: fixed;
-  top: 10em;
-  left: 1em;
-  font-size: .9em;
-}
-
-#scrollspy .list-group-item{
-  border: none;
-}
-
-#scrollspy .active{
-  background-color: transparent;
-  color: #bd2828;
 }
 
 a.navbar-brand, a.navbar-brand span{
@@ -157,4 +130,8 @@ table th, table td{
 
 .carousel{
   background-color: #393e47;
+}
+
+.col-10{
+  padding: 0;
 }
