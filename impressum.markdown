@@ -16,6 +16,8 @@ Geschäftsführer: Dr. Angelika Lösch, Dr. Kirsten Thelen
 Amtsgericht Wiesbaden HRB 12359<br>
 USt.-ID: DE 212530110
 
+Webseite erstellt von [Linda Thelen](http://linda-thelen.de){:target="_blank"}
+
 
 #### Haftungsausschluss
 Das Landgericht Hamburg hat mit Urteil vom 12.05.1998 entschieden, dass man die Inhalte von Seiten, auf die man durch einen Link verweist, ggf. mit zu verantworten hat. Dies kann - so das LG - nur dadurch verhindert werden, dass man sich ausdrücklich von diesen Inhalten distanziert.
