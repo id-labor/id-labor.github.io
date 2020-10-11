@@ -6,7 +6,10 @@
       padding: 0 20%;
       margin: 2em 5em;
     }
-
+    .rezeptbild{
+      float: right;
+      width: max(30%, 250px);
+    }
 }
 
 @media screen
@@ -24,6 +27,11 @@
     .navbar-brand{
       font-size: 1rem;
     }
+
+    .rezeptbild{
+      margin: auto;
+      width: 100%;
+    }
 }
 
 @media screen
@@ -32,6 +40,11 @@
     .carousel{
       padding: 0 10%;
       margin: 2em 3em;
+    }
+
+    .rezeptbild{
+      float: right;
+      width: max(30%, 250px);
     }
 }
 
@@ -43,7 +56,10 @@
       margin: 2em 0;
     }
 
-
+    .rezeptbild{
+      margin: auto;
+      width: 80%;
+    }
 }
 
 *{
@@ -104,6 +120,10 @@ a:hover, .btn-link:hover{
   text-align: justify;
 }
 
+.container ul li{
+  text-align: left;
+}
+
 a.navbar-brand, a.navbar-brand span{
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -142,4 +162,29 @@ table th, table td{
 
 .centered{
   text-align: center;
+}
+
+#rezepte img{
+  display: block;
+}
+
+#rezepte ul:nth-child(1){
+  list-style: none;
+}
+
+#rezepte ul:nth-child(1) li::before{
+  content: '';
+  background-image: url('/assets/rezepte/schneeflocke.gif');
+  background-repeat: no-repeat;
+  background-size: 20px 21px;
+  width: 22px;
+  position: absolute;
+  height: 22px;
+  transform: translateX(-120%);
+}
+
+#rezepte .kerze{
+  margin: auto;
+  margin-top: 2em;
+  padding: 0;
 }
