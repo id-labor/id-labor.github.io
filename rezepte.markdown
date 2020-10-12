@@ -4,22 +4,22 @@ permalink: /rezepte
 title: Weihnachts&shy;rezepte
 headtitle: Weihnachtsrezepte
 ---
-- [Vanillekipferl (2008)](#vanillekipferl-2008)
-- [Pfeffernüsse (2009)](#pfeffernüsse-2009)
-- [Schokoladenkonfekt (2010)](#schokoladenkonfekt-2010)
-- [Chili-Schoko-Plätzchen (2011)](#chili-schoko-plätzchen-2011)
-- [Himmelstaler (2013)](#himmelstaler-2013)
-- [Glühweinsterne (2014)](#glühweinsterne-2014)
-- [Feigenpudding mit Schokolade (2015)](#feigenpudding-mit-schokolade-2015)
-- [Espresso-Macarons (2016)](#espresso-macarons-2016)
-- [Glühbirne Helene (2017)](#glühbirne-helene-2017)
-- [Holunder-Kirsch-Ecken (2018)](#holunder-kirsch-ecken-2018)
-- [Kokosmakronen (2019)](#kokosmakronen-2019)
-- [Mysterium (2020)](#mysterium-2020)
+- [Vanillekipferl (2008)](#-vanillekipferl-2008)
+- [Pfeffernüsse (2009)](#-pfeffernüsse-2009)
+- [Schokoladenkonfekt (2010)](#-schokoladenkonfekt-2010)
+- [Chili-Schoko-Plätzchen (2011)](#-chili-schoko-plätzchen-2011)
+- [Himmelstaler (2013)](#-himmelstaler-2013)
+- [Glühweinsterne (2014)](#-glühweinsterne-2014)
+- [Feigenpudding mit Schokolade (2015)](#-feigenpudding-mit-schokolade-2015)
+- [Espresso-Macarons (2016)](#-espresso-macarons-2016)
+- [Glühbirne Helene (2017)](#-glühbirne-helene-2017)
+- [Holunder-Kirsch-Ecken (2018)](#-holunder-kirsch-ecken-2018)
+- [Kokosmakronen (2019)](#-kokosmakronen-2019)
+- [Mysterium (2020)](#-mysterium-2020)
 
-<a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a>
 
-### Vanillekipferl (2008)
+
+### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Vanillekipferl (2008)
 
 <img src="/assets/rezepte/vanillekipferl.jpg" class="rezeptbild">
 
@@ -32,9 +32,8 @@ headtitle: Weihnachtsrezepte
 
 Die Zutaten zu einem glatten Teig verarbeiten und diesen 2-3 Stunden kühl stellen. Dann aus dem Teig eine Rolle formen, gleichmäßige Stückchen abschneiden und diesen die Form von Kipferln (kleinen Hörnchen) geben. Auf ein vorbereitetes Blech legen und bei 200°C etwa 10 Minuten golden backen. Die noch warmen Kipferl dick mit einer Mischung aus Puder- und Vanillezucker überzuckern.
 
-<a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a>
 
-### Pfeffernüsse (2009)
+### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Pfeffernüsse (2009)
 
 <img src="/assets/rezepte/pfeffernuesse.jpg" class="rezeptbild">
 
@@ -55,9 +54,8 @@ Die Butter mit Honig und Zucker im Topf zerlassen und einmal aufkochen. Das Mehl
 Am nächsten Tag aus dem Teig Kugeln von 2 cm Durchmesser formen, in Hagelzucker wälzen, auf ein gefettetes Backblech setzen und bei 175°C im Backofen 12 Minuten backen. Die Pfeffernüsse vor dem Verzehr mit einem Apfelschnitz 3 Tage verschlossen ruhen lassen, damit sie mürbe werden.
 Ergibt ca. 80 Stück.
 
-<a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a>
 
-### Schokoladenkonfekt (2010)
+### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Schokoladenkonfekt (2010)
 
 <img src="/assets/rezepte/schokoladenkonfekt.jpg" class="rezeptbild">
 
@@ -74,9 +72,8 @@ Butter, Eigelb und gesiebten Puderzucker schaumig rühren und die Orangenschale 
 
 Aus der Masse 2 cm große Quadrate schneiden und im Kakaopulver wenden.
 
-<a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a>
 
-### Chili-Schoko-Plätzchen (2011)
+### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Chili-Schoko-Plätzchen (2011)
 
 <img src="/assets/rezepte/chili-schoko-plaetzchen.jpg" class="rezeptbild">
 
@@ -91,9 +88,8 @@ Aus der Masse 2 cm große Quadrate schneiden und im Kakaopulver wenden.
 
 Mehl, Backpulver, Kakao, Chili und Salz mischen. Butter und Zucker cremig aufschlagen. Die Mehlmischung nach und nach unterrühren bzw. unterkneten. Die gehackte dunkle Schokolade in die Masse einarbeiten. Aus dem Teig haselnussgroße Kugeln formen und auf einem Backblech im vorgeheizten Backofen (180 Grad, Umluft 160 Grad, Gas Stufe 3) 10 Minuten backen. Plätzchen auf Kuchengitter abkühlen lassen und mit etwas Kakao überstäuben.
 
-<a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a>
 
-### Himmelstaler (2013)
+### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Himmelstaler (2013)
 
 <img src="/assets/rezepte/himmelstaler.jpg" class="rezeptbild">
 
@@ -107,9 +103,8 @@ Mehl, Backpulver, Kakao, Chili und Salz mischen. Butter und Zucker cremig aufsch
 
 Die Butter schmelzen und für ein karamelliges Aroma leicht bräunen lassen. Butter abkühlen lassen und dann mit den übrigen Zutaten zu einem glatten Teig verkneten. Den Teig zu Rollen mit etwa 3 cm Durchmesser formen und in Frischhaltefolie gewickelt für 30 min kalt stellen. Die Teigrollen in etwa 8 mm dicke Scheiben schneiden und auf mit Backpapier ausgelegte Backbleche legen. Ungefähr 12-15 min im vorgeheizten Backofen bei 180°C (Umluft 160°C, Gas Stufe 3) hellgelb backen und auf einem Kuchengitter abkühlen lassen.
 
-<a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a>
 
-### Glühweinsterne (2014)
+### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Glühweinsterne (2014)
 
 <img src="/assets/rezepte/gluehweinsterne.jpg" class="rezeptbild">
 
@@ -136,9 +131,8 @@ In der Zwischenzeit Zutaten für das Gelee aufkochen und für 4 Minuten sprudeln
 
 Den Teig ausrollen und Sterne ausstechen. Aus der Hälfte in der Mitte ein kleineres Sternchen ausstechen, so dass ein Rand bleibt. Plätzchen bei 180 Grad (Umluft 160 Grad) goldbraun backen und abkühlen lassen. Die ungelochten Sterne mit Glühweingelee bestreichen und einen Sternenring darauf setzen. Die fertigen Plätzchen nach Belieben mit Puderzucker bestäuben.
 
-<a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a>
 
-### Feigenpudding mit Schokolade (2015)
+### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Feigenpudding mit Schokolade (2015)
 
 <img src="/assets/rezepte/feigenpudding.jpg" class="rezeptbild">
 
@@ -158,9 +152,7 @@ Teig in eine gefettete Pudding- oder Guglhupfform (1/2 l Inhalt) geben und diese
 
 Dazu passt z.B. Schokoladensoße oder Eierlikör.
 
-<a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a>
-
-### Espresso-Macarons (2016)
+### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Espresso-Macarons (2016)
 
 <img src="/assets/rezepte/espresso-macarons.jpg" class="rezeptbild">
 
@@ -183,9 +175,8 @@ Schokolade mit der Sahne im Wasserbad schmelzen, Espressopulver und Kardamom unt
 der Macaronschalen spritzen. Jeweils eine zweite Schale auflegen und andrücken, so dass sich die Crème bis an den Rand verteilt. Macarons nach Belieben mit Puderzucker oder Zuckerguss verzieren und bis zum Genuss
 kühl lagern.
 
-<a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a>
 
-### Glühbirne Helene (2017)
+### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Glühbirne Helene (2017)
 
 <img src="/assets/rezepte/birne.jpg" class="rezeptbild">
 
@@ -209,9 +200,8 @@ Birnen schälen, mit Zitronensaft beträufeln und das Kerngehäuse von unten mit
 
 Den Rotwein auf hoher Stufe einkochen, bis er sirupartig wird. Die Birnen mit Rotweinsirup begießen und mit Schokoladensauce servieren.
 
-<a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a>
 
-### Holunder-Kirsch-Ecken (2018)
+### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Holunder-Kirsch-Ecken (2018)
 
 <img src="/assets/rezepte/holunder-kirsch-ecken.jpg" class="rezeptbild">
 
@@ -244,9 +234,9 @@ hineingeben. 25 min bei 200°C Ober-/Unterhitze backen. Auskühlen lassen.
 Für den Zuckerguss Tee und Puderzucker zu einer zähflüssigen Masse verrühren und auf dem Gebäck
 verstreichen. Noch feucht mit gehackten Pistazien bestreuen. Nach dem Trocknen in Ecken schneiden.
 
-<a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a>
 
-### Kokosmakronen (2019)
+
+### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Kokosmakronen (2019)
 
 <img src="/assets/rezepte/kokosmakronen.jpg" class="rezeptbild">
 

@@ -184,7 +184,8 @@ table th, table td{
 }
 
 #rezepte .kerze{
-  margin: auto;
-  margin-top: 2em;
+  /* margin: auto; */
+  display: inline;
+  margin-top: -4px;
   padding: 0;
 }
