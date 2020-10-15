@@ -6,7 +6,7 @@ headtitle: Sicherheit
 ---
 Gehe zu: [Die Sicherheit des Tests](#die-sicherheit-des-tests) / [Qualitätssicherung und Datenschutz](#qualitätssicherung-und-datenschutz) / [Maßnahmen im Labor](#maßnahmen-im-labor)
 
-Sie möchten bei uns eine Abstammungsuntersuchung durchführen lassen. Sie haben sich schon ausführlich über unser Labor informiert und wissen, auf welchen [Grundlagen](/vaterschaftstest/grundlagen) der DNA-Vaterschaftstest beruht. Sie sind über [Kosten](/vaterschaftstest/preise) und [Ablauf](/vaterschaftstest/ablauf) der Untersuchung aufgeklärt, und einige Ihrer [Fragen](/faq) konnten wir schon beantworten. Bevor Sie sich entscheiden, möchten Sie nun wissen, welche Sicherheit Ihnen ein Vaterschaftstest bei uns gibt und mit welchen Maßnahmen wir die außergewöhnlich hohe Qualität unserer Leistungen sicherstellen.
+Sie möchten bei uns eine Abstammungsuntersuchung durchführen lassen. Sie haben sich schon ausführlich über unser Labor informiert und wissen, auf welchen [Grundlagen](/vaterschaftstest/grundlagen.html) der DNA-Vaterschaftstest beruht. Sie sind über [Kosten](/vaterschaftstest/preise.html) und [Ablauf](/vaterschaftstest/ablauf.html) der Untersuchung aufgeklärt, und einige Ihrer [Fragen](/faq.html) konnten wir schon beantworten. Bevor Sie sich entscheiden, möchten Sie nun wissen, welche Sicherheit Ihnen ein Vaterschaftstest bei uns gibt und mit welchen Maßnahmen wir die außergewöhnlich hohe Qualität unserer Leistungen sicherstellen.
 
 
 #### Die Sicherheit des Tests
@@ -21,18 +21,18 @@ Die zentrale Lage im Rhein-Main-Gebiet erlaubt die Zusammenarbeit mit zahlreiche
 
 Sämtliche personenbezogene Daten werden auf Rechnern ohne Netzzugänge bearbeitet. Damit ist ein Zugriff Dritter über Datennetze wie das Internet ausgeschlossen.
 
-Die Aufarbeitung und Dokumentation der Proben erfolgt nach standardisierten Prozeduren. Dies ist für uns selbstverständlich und sichert Reproduzierbarkeit und Validität der Ergebnisse. Unsere [Akkreditierung nach DIN EN ISO/IEC 17025:2005](/zertifikate) belegt dies.
+Die Aufarbeitung und Dokumentation der Proben erfolgt nach standardisierten Prozeduren. Dies ist für uns selbstverständlich und sichert Reproduzierbarkeit und Validität der Ergebnisse. Unsere [Akkreditierung nach DIN EN ISO/IEC 17025:2005](/zertifikate.htmls) belegt dies.
 
 Durch die erfolgreiche Teilnahme an Ringversuchen verfügen wir über Zertifikate, die unsere hohen Qualitätsstandards auch nach außen dokumentieren:
 
-Die Ringversuche der **DGAB**, der Deutschen Gesellschaft für Abstammungsbegutachtung, richten sich speziell an Labore, die sich mit Abstammungsgutachten beschäftigen. Die teilnehmenden Institute erhalten unbekannte Proben, deren DNA-Merkmale typisiert werden sollen sowie biostatistische Aufgaben. Die Ergebnisse werden bei der Organisation der Ringversuche eingereicht und überprüft. Wurden die Proben richtig typisiert und die biostatistische Aufgabe korrekt berechnet und beurteilt, erhält man darüber jeweils ein [Zertifikat](/zertifikate).
+Die Ringversuche der **DGAB**, der Deutschen Gesellschaft für Abstammungsbegutachtung, richten sich speziell an Labore, die sich mit Abstammungsgutachten beschäftigen. Die teilnehmenden Institute erhalten unbekannte Proben, deren DNA-Merkmale typisiert werden sollen sowie biostatistische Aufgaben. Die Ergebnisse werden bei der Organisation der Ringversuche eingereicht und überprüft. Wurden die Proben richtig typisiert und die biostatistische Aufgabe korrekt berechnet und beurteilt, erhält man darüber jeweils ein [Zertifikat](/zertifikate.html).
 
-Die **GEDNAP** Ringversuche werden von der Spurenkommission der Deutschen Gesellschaft für Rechtsmedizin organisiert. Bescheinigungen über unsere erfolgreiche Teilnahme finden Sie [hier](/zertifikate).
+Die **GEDNAP** Ringversuche werden von der Spurenkommission der Deutschen Gesellschaft für Rechtsmedizin organisiert. Bescheinigungen über unsere erfolgreiche Teilnahme finden Sie [hier](/zertifikate.html).
 
 Wir nehmen den Datenschutz sehr ernst: Ohne Ihre ausdrückliche Einwilligung erhält niemand Auskunft über das Ergebnis Ihrer Untersuchung. Unsere Datenschutzerklärung finden Sie hier.
 
 #### Maßnahmen im Labor
-Unsere [persönliche Qualifikation](/wir) sichert Ihnen wissenschaftlich einwandfreie Analysen. Die Organisation der Arbeitsabläufe garantiert Ihnen Prozess-Sicherheit.
+Unsere [persönliche Qualifikation](/wir.html) sichert Ihnen wissenschaftlich einwandfreie Analysen. Die Organisation der Arbeitsabläufe garantiert Ihnen Prozess-Sicherheit.
 
 In unserem Sicherheitslabor werden Ihre Proben sachgerecht gelagert und bearbeitet.
 

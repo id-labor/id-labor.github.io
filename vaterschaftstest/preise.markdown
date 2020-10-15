@@ -7,4 +7,4 @@ headtitle: Preisliste
 
 {% include preisliste.html %}
 
-[Hier](/vaterschaftstest/preise/angebote) finden Sie außerdem unsere aktuellen Angebote.
+[Hier](/vaterschaftstest/preise/angebote.html) finden Sie außerdem unsere aktuellen Angebote.
