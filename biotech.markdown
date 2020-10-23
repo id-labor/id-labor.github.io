@@ -5,7 +5,7 @@
 layout: default
 permalink: /biotech
 title: Service zur Authentifizierung
-headtitle: ID-Labor GmbH - Authentifizierung
+headtitle: Authentifizierung
 description: Unser Service zur gerichtlichen Authentifizierung mit unterschiedlichen Probentypen
 ---
 Gehe zu: [Humane Zelllinien](#humane-zelllinien) / [Gewebeproben](#gewebeproben) / [Autologe Transplantate](#autologe-transplantate)

@@ -5,7 +5,7 @@
 layout: default
 permalink: /vaterschaftstest
 title: Infos zum Vaterschaftstest
-headtitle: ID-Labor - Vaterschaftstest
+headtitle: Vaterschaftstest
 description: Alle wichtigen Informationen rund um Vaterschaftstests im ID-Labor
 ---
 Sie interessieren sich für unser Angebot rund um die Abstammungsbegutachtung wie den DNA-Vaterschaftstest oder die Verwandtschaftsanalyse? Zu diesem Service haben wir hier ein spezielles Portal aufgebaut, wo Sie sich ausführlich z.B. über folgende Themen informieren können:
