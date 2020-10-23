@@ -4,7 +4,7 @@ permalink: /vaterschaftstest/preise/angebote
 title: Angebote
 headtitle: Preisliste - Aktuelle Angebote
 ---
-[&larr; Zurück zur Preisliste](/vaterschaftstest/preise.html)
+[&larr; Zurück zur Preisliste](/vaterschaftstest/preise)
 #### Vaterschaftstest smart für EUR 295,00
 Die Voraussetzungen sind:
 

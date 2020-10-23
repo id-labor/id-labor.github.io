@@ -1,43 +1,43 @@
   - page: Unternehmen
     subfolderitems:
       - page: Über uns
-        url: /wir.html
+        url: /wir
       - page: Zertifikate
-        url: /zertifikate.html
+        url: /zertifikate
   - page: Vaterschaftstests
     subfolderitems:
       - page: Allgemeines
-        url: /vaterschaftstest.html
+        url: /vaterschaftstest
       - page: Testprinzip
-        url: /vaterschaftstest/grundlagen.html
+        url: /vaterschaftstest/grundlagen
       - page: Ablauf
-        url: /vaterschaftstest/ablauf.html
+        url: /vaterschaftstest/ablauf
       - page: Sicherheit
-        url: /vaterschaftstest/sicherheit.html
+        url: /vaterschaftstest/sicherheit
       - page: Preise
-        url: /vaterschaftstest/preise.html
+        url: /vaterschaftstest/preise
       - page: Warum ID-Labor?
-        url: /vaterschaftstest/vorteile.html
+        url: /vaterschaftstest/vorteile
       - page: Alternatives Probenmateriel
-        url: /vaterschaftstest/spuren.html
+        url: /vaterschaftstest/spuren
       - page: Formulare
-        url: /vaterschaftstest/formulare.html
+        url: /vaterschaftstest/formulare
       - page: FAQ
-        url: /faq.html
+        url: /faq
   - page: Authentifizierung
-    url: /biotech.html
+    url: /biotech
   - page: Zum Weiterlesen
     subfolderitems:
       - page: Wissenschaftlicher Hintergrund
-        url: /vaterschaftstest/hintergrund.html
+        url: /vaterschaftstest/hintergrund
       - page: Genetischer Fingerabdruck
-        url: /vaterschaftstest/genetischer-fingerabdruck.html
+        url: /vaterschaftstest/genetischer-fingerabdruck
 
   - page: Kontakt
     subfolderitems:
       - page: Kontakt
-        url: /kontakt.html
+        url: /kontakt
       - page: Beratung
-        url: /beratung.html
+        url: /beratung
       - page: Impressum
-        url: /impressum.html
+        url: /impressum

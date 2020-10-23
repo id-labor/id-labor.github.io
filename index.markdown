@@ -32,4 +32,4 @@ quelle: Bilder von <a href="https://unsplash.com/@jxnsartstudio?utm_source=unspl
     </div>
   </div>
 
-  Weshalb sollten Sie unser Labor wählen, wenn Sie ein Abstammungsgutachten (Vaterschaftstest oder Verwandtschaftsanalyse) benötigen? Hier finden Sie die Antworten: [Darum ID-Labor - gute Gründe für das Labor Ihres Vertrauens](/vaterschaftstest/vorteile.html)
+  Weshalb sollten Sie unser Labor wählen, wenn Sie ein Abstammungsgutachten (Vaterschaftstest oder Verwandtschaftsanalyse) benötigen? Hier finden Sie die Antworten: [Darum ID-Labor - gute Gründe für das Labor Ihres Vertrauens](/vaterschaftstest/vorteile)
