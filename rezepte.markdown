@@ -15,7 +15,7 @@ headtitle: Weihnachtsrezepte
 - [Glühbirne Helene (2017)](#-glühbirne-helene-2017)
 - [Holunder-Kirsch-Ecken (2018)](#-holunder-kirsch-ecken-2018)
 - [Kokosmakronen (2019)](#-kokosmakronen-2019)
-- [Mysterium (2020)](#-mysterium-2020)
+- [Schokoladiger Adventskalender (2020)](#-schokoladiger-adventskalender-2020)
 
 
 
@@ -163,7 +163,7 @@ Dazu passt z.B. Schokoladensoße oder Eierlikör.
 - 1 TL Kakao
 - 1 Prise Salz
 
-Espresso-Macarons	Ganache:
+Ganache:
 - 80 g Zartbitterschokolade
 - 100 g Schlagsahne
 - 2 Msp gemahlener Kardamom
@@ -216,9 +216,6 @@ Für das Gebäck:
 - 1/2 TL Zimt
 - 125 ml Holunder-Kirsch-Tee
 
-Holunder-Kirsch-Ecken
-
-
 Für den Zuckerguss:
 - 5 EL Holunder-Kirsch-Tee
 - 200 g Puderzucker
@@ -255,3 +252,23 @@ Die Fingerspitzen in kaltes Wasser tauchen und aus dem Teig etwa 30 Makronen for
 
 Kakaoglasur schmelzen, die abgekühlten Makronen ein wenig in die flüssige Glasur tauchen, abtropfen und
 auf einem Kuchengitter fest werden lassen.
+
+### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Schokoladiger Adventskalender (2020)
+
+<img src="/assets/rezepte/adventskalenderkuchen.jpg" class="rezeptbild">
+
+Mürbeteig:
+- 100g Butter in Flöckchen
+- 200g Mehl
+- 75g Zucker
+- 1 Prise Salz
+
+Zutaten zu einem Mürbeteig verkneten, 1 h kalt stellen. In zwei gleiche Portionen teilen und beide zu Kreisen mit 20 cm Durchmesser formen. Platten auf ein mit Backpapier ausgelegte Backbleche legen. Auf einer der Platten mit Messer und Lineal 24 Segmente markieren. Ca. 12‘ bei 200°C (Ober-/Unterhitze) goldgelb backen. Abkühlen lassen, um den unmarkierten Boden einen Tortenring stellen.
+
+Füllung:
+- 250g weiße Kuvertüre
+- 60 ml Sahne
+- 50g Pistazien
+- 50g getrocknete Cranberries
+
+Schokolade mit Sahne im Wasserbad schmelzen, nicht zu heiß werden lassen! Pistazien und Cranberries unterheben. Die Masse auf den unmarkierten Boden streichen, den anderen Boden darauf legen, vorsichtig andrücken. Im Kühlschrank Füllung fest werden lassen. Tortenring entfernen, Segmente mit Zuckerschrift in rot und grün mit Zahlen von 1 bis 24 beschriften. Nur ein Stück pro Tag genießen ;-)
