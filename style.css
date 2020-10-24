@@ -86,11 +86,22 @@ body{
   min-height: 100vh;
 }
 
-.small{
-  display: block;
-  padding-top: 3em;
-  padding-bottom: 1em;
+span.small{
   font-size: .8em;
+}
+
+footer{
+  width: 100%;
+  padding: 1.2em 0;
+  height: 4em;
+  margin-top: 1em;
+  /* background-color: red; */
+}
+
+.content {
+  min-height: 100vh;
+  padding-bottom: 5em;
+  margin-bottom: -5em;
 }
 
 
@@ -188,4 +199,18 @@ table th, table td{
   display: inline;
   margin-top: -4px;
   padding: 0;
+}
+
+@media screen
+  and (max-width: 768px){
+    footer {
+      padding: 1.2em 2em;
+      height: 5em;
+      margin-top: 1em;
+    }
+
+    .content {
+      padding-bottom: 6em;
+      margin-bottom: -6em;
+    }
 }

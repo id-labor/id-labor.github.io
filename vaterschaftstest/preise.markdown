@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /vaterschaftstest/preise
+permalink: /vaterschaftstest/preise/
 title: Preisliste
 headtitle: Preisliste
 ---

@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-permalink: /vaterschaftstest
+permalink: /vaterschaftstest/
 title: Infos zum Vaterschaftstest
 headtitle: Vaterschaftstest
 description: Alle wichtigen Informationen rund um Vaterschaftstests im ID-Labor
