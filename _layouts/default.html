@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="/style.css">
     <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
   </head>
-  <body>
+  <body {% if page.quelle %}class="longfooter"{% endif %}>
     <div class="content">
       {% include nav.html current=page.permalink %}
       <main class="col-md-8 offset-md-2 col-10 offset-1 container">
