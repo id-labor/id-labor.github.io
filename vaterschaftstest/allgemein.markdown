@@ -4,7 +4,7 @@
 
 layout: default
 permalink: /vaterschaftstest/
-title: Infos zum Vaterschaftstest
+title: Infos zum Vater&shy;schafts&shy;test
 headtitle: Vaterschaftstest
 description: Alle wichtigen Informationen rund um Vaterschaftstests im ID-Labor
 ---

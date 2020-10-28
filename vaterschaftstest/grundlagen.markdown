@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /vaterschaftstest/grundlagen
-title: Grundlagen zum DNA-Vaterschaftstest
+title: Grundlagen zum DNA-Vater&shy;schafts&shy;test
 headtitle: Grundlagen zum Vaterschaftstest
 description: Alles wichtige zum DNA-Vaterschaftstest beim ID-Labor
 ---

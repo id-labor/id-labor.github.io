@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /vaterschaftstest/hintergrund
-title: Wissenschaftlicher Hintergrund
+title: Wissen&shy;schaft&shy;licher Hintergrund
 headtitle: Wissenschaftlicher Hintergrund
 ---
 Gehe zu: [Einführung in die genetischen Grundlagen](#einführung-in-die-genetischen-grundlagen) / [Methodik](#methodik) / [TWGDAM Validierung](#twgdam-validierung)

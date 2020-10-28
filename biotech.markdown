@@ -4,7 +4,7 @@
 
 layout: default
 permalink: /biotech
-title: Service zur Authentifizierung
+title: Service zur Authentifi&shy;zierung
 headtitle: Authentifizierung
 description: Unser Service zur gerichtlichen Authentifizierung mit unterschiedlichen Probentypen
 ---

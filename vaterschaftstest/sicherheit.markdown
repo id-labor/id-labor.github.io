@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /vaterschaftstest/sicherheit
-title: Sicherheit des Vaterschaftstests
+title: Sicherheit des Vater&shy;schafts&shy;tests
 headtitle: Sicherheit
 ---
 Gehe zu: [Die Sicherheit des Tests](#die-sicherheit-des-tests) / [Qualitätssicherung und Datenschutz](#qualitätssicherung-und-datenschutz) / [Maßnahmen im Labor](#maßnahmen-im-labor)

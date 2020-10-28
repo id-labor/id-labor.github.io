@@ -7,7 +7,7 @@
   - page: Vaterschaftstests
     subfolderitems:
       - page: Allgemeines
-        url: /vaterschaftstest
+        url: /vaterschaftstest/
       - page: Testprinzip
         url: /vaterschaftstest/grundlagen
       - page: Ablauf
@@ -15,7 +15,7 @@
       - page: Sicherheit
         url: /vaterschaftstest/sicherheit
       - page: Preise
-        url: /vaterschaftstest/preise
+        url: /vaterschaftstest/preise/
       - page: Warum ID-Labor?
         url: /vaterschaftstest/vorteile
       - page: Alternatives Probenmateriel

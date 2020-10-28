@@ -84,6 +84,7 @@ h2.mb-0{
 
 body{
   min-height: 100vh;
+  overflow-x: hidden;
 }
 
 span.small{
@@ -213,4 +214,8 @@ table th, table td{
       padding-bottom: 6em;
       margin-bottom: -6em;
     }
+}
+
+.table-container{
+  overflow: scroll;
 }

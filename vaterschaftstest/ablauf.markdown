@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /vaterschaftstest/ablauf
-title: Ablauf des Vaterschaftstests
+title: Ablauf des Vater&shy;schafts&shy;tests
 headtitle: Ablauf des Vaterschaftstests
 ---
 Gehe zu: [Probenentnahme](#probenentnahme) / [Identitäsfeststellung](#identitätsfeststellung) / [Probenanalyse](#probenanalyse) / [Ergebnis](#ergebnis) / [Noch Fragen?](#noch-fragen)
@@ -16,7 +16,7 @@ Für die Durchführung der Untersuchung in unserem Labor benötigen wir Proben v
 <img src="/assets/testset.jpg" align="right">
 Mundschleimhautabstriche werden mit Hilfe von Wattestäbchen durch Reiben an der Innenseite der Wange entnommen. Das **Testset** mit den benötigten Wattestäbchen, der Anleitung zur Probenentnahme, dem Auftragsformular, den Formularen für Identitätsprüfung und Einwilligung, der Verpackung für die entnommenen Proben und dem Rücksendeumschlag senden wir **kostenlos und unverbindlich** an Sie oder an eine geeignete Entnahmestelle Ihrer Wahl. Sie können das Testset [telefonisch, per E-Mail, Fax oder Brief](/kontakt) anfordern oder auch einen Termin in unserem Hause vereinbaren.<br><br>
 
-### Identitätsfeststellung
+### Identitäts&shy;feststellung
 **Sie wollen das Gutachten einem Gericht oder einer anderen Behörde vorlegen?** Da die Probenentnahme ohnehin mit einer Identitätsprüfung verbunden werden muss, ist dies bei unseren Gutachten grundsätzlich immer möglich. Wir führen die Identitätsfeststellung nach [Terminabsprache](/kontakt) kostenlos für Sie durch. Wenn Sie nicht zu uns kommen können, sind wir Ihnen gerne bei der Suche nach einem Arzt in Ihrer Nähe behilflich.
 
 ### Probenanalyse
