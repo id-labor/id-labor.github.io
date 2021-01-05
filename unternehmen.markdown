@@ -54,9 +54,9 @@ Die GEDNAP Ringversuche werden von der Spurenkommission der Deutschen Gesellscha
 
 ### Mitgliedschaften
 Die Mitgliedschaft in verschiedenen Berufsverbänden hat zum Ziel, die Interessen des Unternehmens und seiner Kunden zu vertreten sowie durch den Austausch mit anderen Wissenschaftlern stets auf dem neuesten Stand der Wissenschaft und Technik zu bleiben. Die ID-Labor GmbH beziehungsweise deren Geschäftsführerinnen sind Mitglied in zahlreichen Körperschaften, u.a.:
-- [VdBiol](http://www.vdbiol.de/) (Verband deutscher Biologen und biowissenschaftlicher Fachgesellschaften e.V.)
+- [VdBiol](http://www.vdbiol.de/){:target="_blank"} (Verband deutscher Biologen und biowissenschaftlicher Fachgesellschaften e.V.)
 - BVöSA (Bundesverband öffentlich bestellter und vereidigter Sachverständiger für Abstammungsbegutachtung)
-- [DGAB](http://www.dgab.org/Website/Willkommen.html) (Deutsche Gesellschaft für Abstammungsbegutachtung e.V.)
+- [DGAB](http://dgab-online.de/){:target="_blank"} (Deutsche Gesellschaft für Abstammungsbegutachtung e.V.)
 - ISFG (International Society for Forensic Genetics)
 
 ### Referenzen
