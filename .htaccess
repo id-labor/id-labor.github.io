@@ -1,0 +1,12 @@
+# start engine
+RewriteEngine on
+
+# redirect /x.html to /x
+RewriteCond %{THE_REQUEST} /([^.]+)\.html [NC]
+RewriteRule ^ /%1 [NC,L,R]
+
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^ %{REQUEST_URI}.html [NC,L]
+
+# redirect 404 errors to the 404 page
+	ErrorDocument 404 /404
