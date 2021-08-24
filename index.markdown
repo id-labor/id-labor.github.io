@@ -9,7 +9,7 @@ quelle: Bilder von <a href="https://unsplash.com/@jxnsartstudio?utm_source=unspl
 ---
   <div class="row justify-content-around centered" id="idx-row">
     <div class="col-md-5 col-12">
-      <div class="card">
+      <div class="card modern-card">
         <img src="assets/baby.jpg" class="card-img-top" alt="Baby" width="100%">
         <div class="card-body">
           <a href="/vaterschaftstest">Gerichtlich verwertbare Abstammungsgutachten
@@ -19,7 +19,7 @@ quelle: Bilder von <a href="https://unsplash.com/@jxnsartstudio?utm_source=unspl
       </div>
     </div>
     <div class="col-md-5 col-12">
-      <div class="card">
+      <div class="card modern-card">
         <img src="assets/labor.jpg" width="100%">
         <div class="card-body">
           <a href="/biotech">Authentifizierung von humanen Zelllinien,

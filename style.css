@@ -14,6 +14,7 @@ h1, h2, h3, h4, h5, h6{
   font-family: Raleway, OpenSans, sans-serif;
   margin-top: 1em;
   text-align: left;
+  font-weight: bold;
 }
 
 h2.mb-0{
@@ -107,7 +108,7 @@ table th, table td{
 }
 
 #idx-row > div{
-  padding: 20px 0;
+  padding: 10px 0 30px 0;
 }
 
 .centered{
@@ -138,6 +139,17 @@ table th, table td{
   display: inline;
   margin-top: -4px;
   padding: 0;
+}
+
+.modern-card .card-img, .modern-card .card-img-top {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.modern-card {
+  border: none;
+  border-radius: 0;
+  background-color: #f8f9fa;
 }
 
 @media screen
