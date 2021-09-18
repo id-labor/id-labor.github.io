@@ -14,6 +14,6 @@ Peter-Sander-Straße 43c<br>
 Tel. <a href="tel:+4961346019150">06134-601 9150</a><br>
 Fax 06134-601 9155
 
-[info@ID-Labor.de](mailto:info@ID-Labor.de)
+[gutachten@ID-Labor.de](mailto:gutachten@ID-Labor.de)
 
 Wenn Sie für ein Beratungsgespräch oder Probenentnahmen zu uns kommen möchten, kontaktieren Sie uns bitte vorab telefonisch, damit wir einen Termin vereinbaren können. Dies ist meist auch sehr kurzfristig möglich.
