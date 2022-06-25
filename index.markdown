@@ -13,7 +13,7 @@ quelle: Bilder von <a href="https://unsplash.com/@jxnsartstudio?utm_source=unspl
         <img src="assets/baby.jpg" class="card-img-top" alt="Baby" width="100%">
         <div class="card-body">
           <a href="/vaterschaftstest">Gerichtlich verwertbare Abstammungsgutachten
-          ab EUR 295,00*</a><br>
+          ab EUR 299,00*</a><br>
           Der DNA-Test und was Sie darüber wissen sollten.
         </div>
       </div>
