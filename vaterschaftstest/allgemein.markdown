@@ -14,7 +14,7 @@ Sie interessieren sich für unser Angebot rund um die Abstammungsbegutachtung wi
 - [Was kostet das?](/vaterschaftstest/preise)
 - [Weshalb ID-Labor?](/vaterschaftstest/vorteile)
 
-Einen Auszug aus unserer Preisliste finden Sie auch [hier](/vaterschaftstest/preise). Unter bestimmten Voraussetzungen können wir ihnen den Test zum Sonderpreis von € 295,00 anbieten. Näheres hierzu erfahren Sie bei unseren [aktuellen Angeboten](/vaterschaftstest/preise/angebote).
+Einen Auszug aus unserer Preisliste finden Sie auch [hier](/vaterschaftstest/preise). Unter bestimmten Voraussetzungen können wir ihnen den Test zum Sonderpreis von € 299,00 anbieten. Näheres hierzu erfahren Sie bei unseren [aktuellen Angeboten](/vaterschaftstest/preise/angebote).
 
 Sie benötigen ein Gutachten zur Vorlage bei Gericht oder anderen Behörden? <a href="/kontakt">Sprechen Sie uns an!</a> Wir beraten Sie gerne und nennen Ihnen soweit möglich einen Arzt in Ihrer Nähe. Dieser erhält dann sofern gewünscht von uns das Entnahmematerial. Oder vereinbaren Sie einen Termin für die Probenentnahmen in unserem Haus. Hier entstehen Ihnen keine zusätzlichen Kosten.
 
