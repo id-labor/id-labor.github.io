@@ -1,36 +1,45 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap");
 
-*{
+* {
   font-family: Helvetica, Open Sans, sans-serif;
   font-weight: 300;
-  letter-spacing: .8px;
+  letter-spacing: 0.8px;
 }
 
-.dropdown-item{
+.dropdown-item {
   font-weight: 300;
 }
 
-h1, h2, h3, h4, h5, h6{
+h1 {
+  font-size: 1.7rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: Raleway, OpenSans, sans-serif;
   margin-top: 1em;
   text-align: left;
   font-weight: bold;
 }
 
-h2.mb-0{
+h2.mb-0 {
   margin: auto;
 }
 
-body{
+body {
   min-height: 100vh;
   overflow-x: hidden;
 }
 
-span.small{
-  font-size: .8em;
+span.small {
+  font-size: 0.8em;
 }
 
-footer{
+footer {
   width: 100%;
   padding: 1.2em 0;
   height: 4em;
@@ -44,88 +53,94 @@ footer{
   margin-bottom: -5em;
 }
 
-
-nav.navbar{
-  padding: .5rem 2em;
+nav.navbar {
+  padding: 0.5rem 2em;
 }
 
-.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav a.current{
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav a.current {
   color: #bd2828;
 }
 
-a, .btn-link{
+a,
+.btn-link {
   color: #bd2828;
-  transition: all .1s linear;
+  transition: all 0.1s linear;
 }
 
-a:hover, .btn-link:hover{
+a:hover,
+.btn-link:hover {
   text-decoration: underline;
   color: #7e1b1b;
 }
 
-.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
   color: #bd2828;
 }
 
-.container{
+.container {
   text-align: justify;
 }
 
-.container ul li{
+.container ul li {
   text-align: left;
 }
 
-a.navbar-brand, a.navbar-brand span{
+a.navbar-brand,
+a.navbar-brand span {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-a.navbar-brand{
+a.navbar-brand {
   font-weight: bold;
+  font-size: 2rem;
 }
 
-p img{
-  padding: .5em 1.5em;
+p img {
+  padding: 0.5em 1.5em;
 }
 
-table.td-right td{
+table.td-right td {
   text-align: right;
 }
 
-thead th{
+thead th {
   font-weight: 400;
 }
 
-table th, table td{
+table th,
+table td {
   text-align: left;
 }
 
-.carousel{
+.carousel {
   background-color: #393e47;
 }
 
-.col-10{
+.col-10 {
   padding: 0;
 }
 
-#idx-row > div{
+#idx-row > div {
   padding: 10px 0 30px 0;
 }
 
-.centered{
+.centered {
   text-align: center;
 }
 
-#rezepte img{
+#rezepte img {
   display: block;
 }
 
-#rezepte ul:nth-child(1){
+#rezepte ul:nth-child(1) {
   list-style: none;
 }
 
-#rezepte ul:nth-child(1) li::before{
-  content: '';
-  background-image: url('/assets/rezepte/schneeflocke.gif');
+#rezepte ul:nth-child(1) li::before {
+  content: "";
+  background-image: url("/assets/rezepte/schneeflocke.gif");
   background-repeat: no-repeat;
   background-size: 20px 21px;
   width: 22px;
@@ -134,14 +149,15 @@ table th, table td{
   transform: translateX(-120%);
 }
 
-#rezepte .kerze{
+#rezepte .kerze {
   /* margin: auto; */
   display: inline;
   margin-top: -4px;
   padding: 0;
 }
 
-.modern-card .card-img, .modern-card .card-img-top {
+.modern-card .card-img,
+.modern-card .card-img-top {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
@@ -152,118 +168,109 @@ table th, table td{
   background-color: #f8f9fa;
 }
 
-@media screen
-  and (max-width: 768px){
-    .longfooter footer {
-      height: 5em;
-      margin-top: 1em;
-    }
+@media screen and (max-width: 768px) {
+  .longfooter footer {
+    height: 5em;
+    margin-top: 1em;
+  }
 
-    footer{
-      padding: 1.2em 2em;
-    }
+  footer {
+    padding: 1.2em 2em;
+  }
 
-    .longfooter .content {
-      padding-bottom: 6em;
-      margin-bottom: -6em;
-    }
+  .longfooter .content {
+    padding-bottom: 6em;
+    margin-bottom: -6em;
+  }
 }
 
-@media screen
-  and (min-width: 901px){
-    .carousel{
-      padding: 0 20%;
-      margin: 2em 5em;
-    }
-    .rezeptbild{
-      float: right;
-      width: max(30%, 250px);
-    }
+@media screen and (min-width: 901px) {
+  .carousel {
+    padding: 0 20%;
+    margin: 2em 5em;
+  }
+  .rezeptbild {
+    float: right;
+    width: max(30%, 250px);
+  }
 }
 
-@media screen
-  and (max-width: 450px)
-  {
-    .carousel{
-      padding: 0 2em;
-      margin: 2em 0;
-    }
+@media screen and (max-width: 450px) {
+  .carousel {
+    padding: 0 2em;
+    margin: 2em 0;
+  }
 
-    nav img{
-      width: 50px;
-    }
+  nav img {
+    width: 50px;
+  }
 
-    .navbar-brand{
-      font-size: 1rem;
-    }
+  .navbar-brand {
+    font-size: 2rem;
+  }
 
-    .rezeptbild{
-      margin: auto;
-      width: 100%;
-    }
+  .rezeptbild {
+    margin: auto;
+    width: 100%;
+  }
 
-    .longfooter footer {
-      height: 6em;
-      margin-top: 1em;
-    }
+  .longfooter footer {
+    height: 6em;
+    margin-top: 1em;
+  }
 
-    .longfooter .content {
-      padding-bottom: 7em;
-      margin-bottom: -7em;
-    }
+  .longfooter .content {
+    padding-bottom: 7em;
+    margin-bottom: -7em;
+  }
 
-    .table-container{
-      overflow-x: scroll;
-    }
+  .table-container {
+    overflow-x: scroll;
+  }
 }
 
-@media screen
-  and (min-width: 601px)
-  and (max-width: 900px){
-    .carousel{
-      padding: 0 10%;
-      margin: 2em 3em;
-    }
+@media screen and (min-width: 601px) and (max-width: 900px) {
+  .carousel {
+    padding: 0 10%;
+    margin: 2em 3em;
+  }
 
-    .rezeptbild{
-      float: right;
-      width: max(30%, 250px);
-    }
+  .rezeptbild {
+    float: right;
+    width: max(30%, 250px);
+  }
 }
 
-@media screen
-  and (min-width: 451px)
-  and (max-width: 600px){
-    .carousel{
-      padding: 0 3em;
-      margin: 2em 0;
-    }
+@media screen and (min-width: 451px) and (max-width: 600px) {
+  .carousel {
+    padding: 0 3em;
+    margin: 2em 0;
+  }
 
-    .rezeptbild{
-      margin: auto;
-      width: 80%;
-    }
+  .rezeptbild {
+    margin: auto;
+    width: 80%;
+  }
 }
 
 /* kleinere Überschriften auf kleineren Bildschirmen */
-@media screen
-  and (max-width: 600px){
-    h1{
-      font-size: 1.9rem;
-    }
-    h2{
-      font-size: 1.6rem;
-    }
-    h3{
-      font-size: 1.4rem;
-    }
-    h4{
-      font-size: 1.3rem;
-    }
-    h5{
-      font-size: 1.25rem;
-    }
-    h6{
-      font-size: 1.15rem;
-    }
+@media screen and (max-width: 600px) {
+  h1 {
+    font-size: 1.7rem;
+  }
+  h2 {
+    font-size: 1.6rem;
+  }
+  h3 {
+    font-size: 1.4rem;
+  }
+  h4 {
+    font-size: 1.3rem;
+  }
+  h5 {
+    font-size: 1.25rem;
+  }
+  h6 {
+    font-size: 1.15rem;
+  }
 }
