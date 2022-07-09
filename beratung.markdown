@@ -16,8 +16,8 @@ Telefon: <a href="tel:+49615292320">06152-9 23 20</a>
 #### Humangenetische Beratung
 
 
-Dr. med. Dipl. Biol. Eva Schwaab<br>
-Fachärztin für Humangenetik<br>
+IMD Humangenetik Wiesbaden<br>
+Dr. Julia Schröder, Dr. Maria Korte<br>
 Biebricher Allee 117<br>
 65187 Wiesbaden<br>
 Telefon: <a href="tel:+49611333137">0611-333 137</a>
