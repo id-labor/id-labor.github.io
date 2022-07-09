@@ -94,7 +94,11 @@ a.navbar-brand span {
 
 a.navbar-brand {
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 1.55rem;
+}
+
+a.navbar-brand img {
+  margin-left: 1em;
 }
 
 p img {
