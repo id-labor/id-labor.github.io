@@ -5,40 +5,52 @@ title: Das Unternehmen
 headtitle: Das Unternehmen
 description: Über unser Unternehmen und das Team dahinter
 ---
+
 Gehe zu: [Das Team](#das-team) / [Die Qualitätssicherheit](#die-qualitätssicherheit) / [Mitgliedschaften](#mitgliedschaften) / [Referenzen](#referenzen)
 
 <br><br>
-<img src="/assets/Frontansicht.jpg" align="left" class="mr-4">
-Nahezu 15 Jahre hatte die ID-Labor GmbH ihren Standort in einem Denkmal der Industriekultur mit 130-jähriger Tradition - im Industriepark Kalle-Albert im Wiesbadener Stadtteil Biebrich. Nun arbeiten wir im Acorum, einem modernen Gebäudekomplex in einem von Wiesbadens jüngeren Gewerbegebieten, dem Petersweg.
 
+<img src="/assets/Frontansicht.jpg" align="left" width="40%" class="mr-4">
 ID bedeutet "Identification by DNA" und steht für unser Programm: Wir identifizieren von Verwandtschaftsbeziehungen bis zu Kontaminationen von Zellkulturen alles, was sich durch die Analyse von DNA identifizieren lässt. Mit dieser Idee konnten wir uns beim Existenzgründerwettbewerb "FIT FOR BOSS" des Wirtschaftsmagazins "DM" nach ausführlicher Prüfung durch renommierte Fachleute gegen mehrere hundert Mitbewerber durchsetzen und gewinnen.
 
-<div class="row justify-content-around centered">
-  <div class="col-sm-4 col-10">
-    <img src="assets/loesch.jpg" width="100%"><br>
-    Dr. phil. nat. Angelika Lösch
-  </div>
-  <div class="col-sm-4 col-10">
-    <img src="assets/thelen.jpg" width="100%"><br>
-    Dr. phil. nat. Kirsten Thelen
-  </div>
-</div>
+Sitz der **ID-Labor** GmbH ist die hessische Landeshauptstadt Wiesbaden. Die Räumlichkeiten befinden sich im Gewerbegebiet Petersweg im Stadtteil Mainz-Kastel.
+<br>
+<br>
 
 ### Das Team
 
-Dr. Kirsten Thelen ist Molekularbiologin. Nach ihrem Studium der Mikrobiologie, Biochemie und Humangenetik an der [Johann-Wolfgang-Goethe-Universität](http://www.uni-frankfurt.de/) in [Frankfurt am Main](http://www.stadt-frankfurt.de/) promovierte sie am [Paul-Ehrlich-Institut](http://www.pei.de/) in Langen unter Professer Johannes Löwer über die Rolle endogener Retroviren bei bestimmten menschlichen Tumorarten.<br>
-Anschließend vertiefte sie ihre Kenntnisse als wissenschaftliche Mitarbeiterin am Institut für Immunologie der [Ludwig-Maximilians-Universität](http://www.uni-muenchen.de/) in München unter Professor Riethmüller. Hier stand die Frage, warum manche Tumorzellen zu Metastasen werden und andere nicht, im Vordergrund.
+<div class="row justify-content-around centered pb-4">
+  <div class="col-md-9 col-12">
+    <p class="text-left">
+    Gründerinnen und Geschäftsführerinnen der ID-Labor GmbH sind Dr. Angelika Lösch und Dr. Kirsten Thelen. Nach Studium, wissenschaftlichen Tätigkeiten und Erfahrungen in der freien Wirtschaft gründeten sie 1998 das ID-Labor. Es war eines der ersten Unternehmen in Deutschland, das den Vaterschaftstest auf der Basis moderner molekularbiologischer Methoden einer breiten Öffentlichkeit preiswert zugänglich machte.
 
-Dr. Angelika Lösch ist Biochemikerin. Sie studierte ebenfalls an der [Johann-Wolfgang-Goethe-Universität](http://www.uni-frankfurt.de/) in [Frankfurt am Main](http://www.stadt-frankfurt.de/) Biochemie, Humangenetik und Mikrobiologie. Ihre Promotion führte sie an die [Johannes Gutenberg-Universität](http://www.uni-mainz.de/) Mainz, wo sie unter Professor Claudia Koch-Brandt den gerichteten Transport sekretorischer Proteine in epithelialen Zellen erforschte.<br>
-Ihr weiterer Werdegang führte sie nach Dresden an das [Universitätsklinikum Carl-Gustav-Carus](https://www.uniklinikum-dresden.de/de). Dort leitete sie in der Abteilung Chirurgische Forschung eine Arbeitsgruppe, die sich mit der Entwicklung gentherapeutischer Ansätze für maligne Tumorerkrankungen beschäftigt.
+    Heute zählt die ID-Labor GmbH zu den führenden Unternehmen in diesem Wirtschaftszweig und ist ein geschätzter Partner für zahlreiche Gerichte, Jugendämter, Kliniken und Fachärzte.
+    </p>
 
-Mit dem Wissen aus zusammen fast 35 Jahren Berufserfahrung und über 20.000 Abstammungsbegutachtungen verfügen die Sachverständigen Dr. Lösch und Dr. Thelen über fundierte und qualifizierte Sachkenntnis. So kann für nahezu jede Fragestellung auch eine wissenschaftlich einwandfreie Lösung gefunden werden. Seit Mai 2017 sind sowohl Frau Dr. Thelen als auch Frau Dr. Lösch von der [IHK Wiesbaden öffentlich bestellte und vereidigte Sachverständige](/zertifikate) für genetische Abstammungsbegutachtung.
+  </div>
+  <div class="col-md-3 col-sm-6 col-9 px-3">
+    <img src="assets/loesch.jpg" width="100%"><br>
+    Dr. Angelika Lösch
+  </div>
+</div>
+<div class="row justify-content-around centered">
+  <div class="col-md-3 col-sm-6 col-9 px-3">
+    <img src="assets/thelen.jpg" width="100%"><br>
+    Dr. Kirsten Thelen
+  </div>
+  <div class="col-md-9 col-12">
+    <p class="text-left">
+    Mit dem Wissen aus jahrzehntelanger Berufserfahrung und zehntausenden Abstammungsbegutachtungen verfügen die Sachverständigen Dr. Lösch und Dr. Thelen über fundierte und qualifizierte Sachkenntnis. So kann für nahezu jede Fragestellung auch eine wissenschaftlich einwandfreie Lösung gefunden werden. Seit Mai 2017 sind sowohl Frau Dr. Thelen als auch Frau Dr. Lösch von der <a href="/zertifikate">IHK Wiesbaden öffentlich bestellte und vereidigte Sachverständige</a> für genetische Abstammungsbegutachtung.
 
-Besonders wichtig ist dem ID-Labor Team die Beratungsleistung in Hinblick auf die schwierige persönliche Situation, in der sich Menschen befinden, die einen Familienkonflikt erleben. Es wird großer Wert darauf gelegt, dass auch bei schwierigen persönlichen Fragestellungen einfühlsame und kompetente Gesprächspartner zur Verfügung stehen. Dr. Lösch hat eine Ausbildung zum NLP-Master (DVNLP) und Dr. Thelen ist zertifizierte Mediatorin.
+    Besonders wichtig ist dem ID-Labor Team die Beratungsleistung in Hinblick auf die schwierige persönliche Situation, in der sich Menschen befinden, die einen Familienkonflikt erleben. Es wird großer Wert darauf gelegt, dass auch bei schwierigen persönlichen Fragestellungen einfühlsame und kompetente Gesprächspartner zur Verfügung stehen. Dr. Lösch hat eine Ausbildung zum NLP-Master (DVNLP) und Dr. Thelen ist zertifizierte Mediatorin.
 
+  </p>
+  </div>
+</div>
 
 ### Die Qualitätssicherheit
-Unsere persönliche Qualifikation sichert Ihnen wissenschaftlich einwandfreie Analysen. Die Organisation der Arbeitsabläufe garantiert Ihnen Prozess-Sicherheit:
+
+Die persönliche Qualifikation unserer Sachverständigen sichert Ihnen wissenschaftlich einwandfreie Analysen. Die Organisation der Arbeitsabläufe garantiert Ihnen Prozess-Sicherheit:
 
 - Die verschiedenen Arbeitsschritte erfolgen räumlich getrennt.
 - Mit jeder Versuchsreihe wird stets eine Reihe von Kontrollexperimenten durchgeführt.
@@ -53,15 +65,18 @@ Für Labore, die sich mit Abstammungsgutachten beschäftigen, bietet die Deutsch
 Die GEDNAP Ringversuche werden von der Spurenkommission der Deutschen Gesellschaft für Rechtsmedizin organisiert. Bescheinigungen über unsere erfolgreiche Teilnahme finden Sie [hier](/zertifikate).
 
 ### Mitgliedschaften
+
 Die Mitgliedschaft in verschiedenen Berufsverbänden hat zum Ziel, die Interessen des Unternehmens und seiner Kunden zu vertreten sowie durch den Austausch mit anderen Wissenschaftlern stets auf dem neuesten Stand der Wissenschaft und Technik zu bleiben. Die ID-Labor GmbH beziehungsweise deren Geschäftsführerinnen sind Mitglied in zahlreichen Körperschaften, u.a.:
-- [VdBiol](http://www.vdbiol.de/){:target="_blank"} (Verband deutscher Biologen und biowissenschaftlicher Fachgesellschaften e.V.)
+
+- VdBiol (Verband deutscher Biologen und biowissenschaftlicher Fachgesellschaften e.V.)
 - BVöSA (Bundesverband öffentlich bestellter und vereidigter Sachverständiger für Abstammungsbegutachtung)
-- [DGAB](http://dgab-online.de/){:target="_blank"} (Deutsche Gesellschaft für Abstammungsbegutachtung e.V.)
+- DGAB (Deutsche Gesellschaft für Abstammungsbegutachtung e.V.)
 - ISFG (International Society for Forensic Genetics)
 
 ### Referenzen
+
 Zu unseren Kunden zählen und zählten:
 
-- über 200 Amtsgerichte in ganz Deutschland und in der Schweiz
+- rund 300 Amtsgerichte in ganz Deutschland und in der Schweiz
 - Kliniken und Fachärzte für Humangenetik
-- weit über 12.000 zufriedene Privatkunden aus aller Welt
+- weit über 15.000 zufriedene Privatkunden aus aller Welt

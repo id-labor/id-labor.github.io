@@ -10,10 +10,6 @@
   font-weight: 300;
 }
 
-h1 {
-  font-size: 1.7rem;
-}
-
 h1,
 h2,
 h3,
@@ -258,23 +254,21 @@ table td {
 }
 
 /* kleinere Überschriften auf kleineren Bildschirmen */
-@media screen and (max-width: 600px) {
-  h1 {
-    font-size: 1.7rem;
-  }
-  h2 {
-    font-size: 1.6rem;
-  }
-  h3 {
-    font-size: 1.4rem;
-  }
-  h4 {
-    font-size: 1.3rem;
-  }
-  h5 {
-    font-size: 1.25rem;
-  }
-  h6 {
-    font-size: 1.15rem;
-  }
+h1 {
+  font-size: 1.7rem;
+}
+h2 {
+  font-size: 1.5rem;
+}
+h3 {
+  font-size: 1.4rem;
+}
+h4 {
+  font-size: 1.3rem;
+}
+h5 {
+  font-size: 1.25rem;
+}
+h6 {
+  font-size: 1.15rem;
 }
