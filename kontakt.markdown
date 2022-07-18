@@ -6,7 +6,7 @@ headtitle: Kontakt
 description: Kontakt der ID-Labor GmbH
 ---
 
-ID-Labor GmbH
+**ID-Labor** GmbH
 
 Peter-Sander-Straße 43c<br>
 55252 Wiesbaden (OT Mainz-Kastel)

@@ -5,11 +5,11 @@ title: Warum ID-Labor?
 headtitle: Vorteile
 ---
 
-<img src="/assets/Flur.jpg" align="left" style="max-width: 16em">
+<img src="/assets/Flur.jpg" align="left" style="max-width: 18em">
 
 **Alles aus einer Hand:** Ihr Auftrag landet auf Anhieb dort, wo er hingehört - im Analyselabor. Wir vermitteln keinen Vaterschaftstest, wir führen ihn in unserem nach ISO 17025 [akkreditierten](/zertifikate) Sicherheitslabor selbst durch.
 
-<img src="/assets/testset.jpg" align="right" style="max-width: 16em">
+<img src="/assets/testset.jpg" align="right" style="max-width: 18em">
 
 **Erfahrung**: Seit 1998 besteht unser [Unternehmen](/wir). In dieser Zeit haben wir tausende Gutachten erstellt und zehntausende DNA-Profile begutachtet.
 
@@ -19,7 +19,7 @@ headtitle: Vorteile
 
 **Schnell sicher**: Innerhalb von drei bis fünf Arbeitstagen nach Auftragseingang ist Ihr Gutachten fertig. (Voraussetzung: Die Proben sind analysierbar und es sind keine weiteren Untersuchungen nötig.)
 
-<img src="/assets/dna-analyseautomat.jpg" align="left" style="max-width: 16em">
+<img src="/assets/dna-analyseautomat.jpg" align="left" style="max-width: 18em">
 
 **Wissenschaftlicher Anspruch**: Die Auswertung der Analyseergebnisse und die Erstattung der Gutachten erfolgt ausschließlich durch Wissenschaftler. Jedes Ergebnis wird doppelt überprüft.
 
@@ -29,7 +29,6 @@ headtitle: Vorteile
 
 **Datenschutz**: Ihre Daten werden nur auf Rechnern verarbeitet und gespeichert, die keine Verbindung zum Telefonnetz haben. Eine Ausspähung Ihrer Daten über das Internet ist damit ausgeschlossen. Unsere Datenschutzerklärung finden Sie [hier](/impressum).
 
-<img src="/assets/id-formular.jpg" align="right" style="max-width: 16em">
 **Identitätsprüfung**: Die Probenentnahme wird bei allen Beteiligten mit einer Identitätsfeststellung verbunden. Der [Identitätsnachweis](/vaterschaftstest/formulare) wird im Gutachten detailliert dargestellt, so dass nachvollzogen werden kann, wem die Proben wann und wo entnommen wurden. Daher sind alle unsere Gutachten zur Vorlage bei Gericht oder Behörden geeignet.
 
 **Akzeptanz bei Gericht**: Wir arbeiten für über 200 Amtsgerichte in Deutschland und der Schweiz, zudem finden unsere Gutachten bei Jugendämtern Anerkennung. Unsere Sachverständigen (Dr. Lösch und Dr. Thelen) sind von der [IHK Wiesbaden für genetische Abstammungsbegutachtung öffentlich bestellt und vereidigt](/zertifikate).

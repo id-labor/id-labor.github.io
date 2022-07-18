@@ -1,7 +1,7 @@
 - name: kostenlose persönliche Beratung
   normal: ja
   smart: ja
-- name: Untersuchung von 16-65 DNA-Merkmalen
+- name: Untersuchung von 17-64 DNA-Merkmalen
   normal: ja
   smart: ja
 - name: ausführliches, richtlinienkonformes Gutachten, zur Vorlage bei Behörden geeignet
@@ -14,7 +14,7 @@
   normal: ja
   smart: nur bei volljährigen Kindern
 - name: Kosten für weitere Person (Vater oder Kind)
-  normal: 260,00€
+  normal: 270,00€
   smart: 180,00€ (nicht nachträglich)
 - name: kostenloses Testset an die Beteiligten
   normal: ja

@@ -22,9 +22,9 @@ Sitz der **ID-Labor** GmbH ist die hessische Landeshauptstadt Wiesbaden. Die Rä
 <div class="row justify-content-around centered pb-4">
   <div class="col-md-9 col-12">
     <p class="text-left">
-    Gründerinnen und Geschäftsführerinnen der ID-Labor GmbH sind Dr. Angelika Lösch und Dr. Kirsten Thelen. Nach Studium, wissenschaftlichen Tätigkeiten und Erfahrungen in der freien Wirtschaft gründeten sie 1998 das ID-Labor. Es war eines der ersten Unternehmen in Deutschland, das den Vaterschaftstest auf der Basis moderner molekularbiologischer Methoden einer breiten Öffentlichkeit preiswert zugänglich machte.
+    Gründerinnen und Geschäftsführerinnen der **ID-Labor** GmbH sind Dr. Angelika Lösch und Dr. Kirsten Thelen. Nach Studium, wissenschaftlichen Tätigkeiten und Erfahrungen in der freien Wirtschaft gründeten sie 1998 das **ID-Labor**. Es war eines der ersten Unternehmen in Deutschland, das den Vaterschaftstest auf der Basis moderner molekularbiologischer Methoden einer breiten Öffentlichkeit preiswert zugänglich machte.
 
-    Heute zählt die ID-Labor GmbH zu den führenden Unternehmen in diesem Wirtschaftszweig und ist ein geschätzter Partner für zahlreiche Gerichte, Jugendämter, Kliniken und Fachärzte.
+    Heute zählt die **ID-Labor** GmbH zu den führenden Unternehmen in diesem Wirtschaftszweig und ist ein geschätzter Partner für zahlreiche Gerichte, Jugendämter, Kliniken und Fachärzte.
     </p>
 
   </div>
@@ -42,7 +42,7 @@ Sitz der **ID-Labor** GmbH ist die hessische Landeshauptstadt Wiesbaden. Die Rä
     <p class="text-left">
     Mit dem Wissen aus jahrzehntelanger Berufserfahrung und zehntausenden Abstammungsbegutachtungen verfügen die Sachverständigen Dr. Lösch und Dr. Thelen über fundierte und qualifizierte Sachkenntnis. So kann für nahezu jede Fragestellung auch eine wissenschaftlich einwandfreie Lösung gefunden werden. Seit Mai 2017 sind sowohl Frau Dr. Thelen als auch Frau Dr. Lösch von der <a href="/zertifikate">IHK Wiesbaden öffentlich bestellte und vereidigte Sachverständige</a> für genetische Abstammungsbegutachtung.
 
-    Besonders wichtig ist dem ID-Labor Team die Beratungsleistung in Hinblick auf die schwierige persönliche Situation, in der sich Menschen befinden, die einen Familienkonflikt erleben. Es wird großer Wert darauf gelegt, dass auch bei schwierigen persönlichen Fragestellungen einfühlsame und kompetente Gesprächspartner zur Verfügung stehen. Dr. Lösch hat eine Ausbildung zum NLP-Master (DVNLP) und Dr. Thelen ist zertifizierte Mediatorin.
+    Besonders wichtig ist dem **ID-Labor** Team die Beratungsleistung in Hinblick auf die schwierige persönliche Situation, in der sich Menschen befinden, die einen Familienkonflikt erleben. Es wird großer Wert darauf gelegt, dass auch bei schwierigen persönlichen Fragestellungen einfühlsame und kompetente Gesprächspartner zur Verfügung stehen. Dr. Lösch hat eine Ausbildung zum NLP-Master (DVNLP) und Dr. Thelen ist zertifizierte Mediatorin.
 
   </p>
   </div>

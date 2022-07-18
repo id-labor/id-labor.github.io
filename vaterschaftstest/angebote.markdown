@@ -4,7 +4,10 @@ permalink: /vaterschaftstest/preise/angebote
 title: Angebote
 headtitle: Preisliste - Aktuelle Angebote
 ---
+
 [&larr; Zurück zur Preisliste](/vaterschaftstest/preise)
+
+<img src="/assets/angebote.jpg" align="right">
 #### Vaterschaftstest smart für EUR 299,00
 Die Voraussetzungen sind:
 
@@ -12,8 +15,8 @@ Die Voraussetzungen sind:
 - Die Probenentnahme erfolgt gemeinsam und nach Terminvereinbarung in unserem Haus.
 - Die Zahlung wird vor Ort in bar durchgeführt.
 
-
 #### Vaterschaftstest Jugendamt für EUR 299,00
+
 Die Voraussetzungen sind:
 
 - Das Testkit wird direkt an das Jugendamt verschickt.
