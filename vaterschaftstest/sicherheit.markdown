@@ -15,7 +15,7 @@ Theoretisch besteht die Möglichkeit, dass ein Mann zwar über alle Merkmale ver
 
 Voraussetzung für ein derartig sicheres Gutachten ist die Teilnahme der Mutter am Test, da man nur so eine Aussage darüber treffen kann, welche Merkmale das Kind vom Vater und welche es von der Mutter geerbt hat. Die "Individuelle Ausschlusschance" bei Defizienzfällen (die Mutter steht nicht zur Verfügung) ist daher meist erheblich niedriger und liegt in der Regel zwischen 99,9 und 99,99%.
 
-Wo es aus Sicherheits-, Sorgfalts- oder aus wissenschaftlichen Gründen geboten ist, werden von uns ohne Aufpreis bis zu 49 weitere Merkmalsysteme in die Begutachtung einbezogen.
+Wo es aus Sicherheits-, Sorgfalts- oder aus wissenschaftlichen Gründen geboten ist, werden von uns ohne Aufpreis bis zu 47 weitere Merkmalsysteme in die Begutachtung einbezogen.
 
 #### Qualitätssicherung und Datenschutz
 

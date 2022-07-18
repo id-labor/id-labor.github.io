@@ -62,7 +62,7 @@ Unsere hohen Qualitätsstandards werden zudem durch Zertifikate dokumentiert, ü
 
 Für Labore, die sich mit Abstammungsgutachten beschäftigen, bietet die Deutsche Gesellschaft für Abstammungsbegutachtung (DGAB) spezielle Ringversuche an. Die teilnehmenden Institute erhalten unbekannte Proben, deren DNA-Merkmale typisiert werden sollen sowie Aufgaben zur Biostatistik. Die Ergebnisse werden bei der Organisation der Ringversuche eingereicht und überprüft. Wurden die Proben richtig typisiert und die biostatistische Aufgabe richtig gelöst und beurteilt, erhält man darüber jeweils ein [Zertifikat](/zertifikate).
 
-Die GEDNAP Ringversuche werden von der Spurenkommission der Deutschen Gesellschaft für Rechtsmedizin organisiert. Bescheinigungen über unsere erfolgreiche Teilnahme finden Sie [hier](/zertifikate).
+Die GEDNAP Ringversuche werden von der Spurenkommission der Deutschen Gesellschaft für Rechtsmedizin organisiert. Bescheinigungen über unsere erfolgreiche Teilnahme in den Jahren 1999 bis 2017 finden Sie [hier](/zertifikate).
 
 ### Mitgliedschaften
 
