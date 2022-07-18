@@ -4,7 +4,7 @@ permalink: /impressum
 title: Impressum
 headtitle: Impressum
 ---
-ID-Labor GmbH<br>
+**ID-Labor** GmbH<br>
 Peter-Sander-Straße 43c<br>
 55252 Wiesbaden (Mz-Kastel)
 
