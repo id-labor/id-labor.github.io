@@ -272,3 +272,8 @@ h5 {
 h6 {
   font-size: 1.15rem;
 }
+
+b,
+strong {
+  font-weight: bolder, bold;
+}
