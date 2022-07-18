@@ -4,6 +4,7 @@ permalink: /vaterschaftstest/vorteile
 title: Warum ID-Labor?
 headtitle: Vorteile
 ---
+
 <img src="/assets/Flur.jpg" align="left" style="max-width: 16em">
 
 **Alles aus einer Hand:** Ihr Auftrag landet auf Anhieb dort, wo er hingehört - im Analyselabor. Wir vermitteln keinen Vaterschaftstest, wir führen ihn in unserem nach ISO 17025 [akkreditierten](/zertifikate) Sicherheitslabor selbst durch.
@@ -33,6 +34,6 @@ headtitle: Vorteile
 
 **Akzeptanz bei Gericht**: Wir arbeiten für über 200 Amtsgerichte in Deutschland und der Schweiz, zudem finden unsere Gutachten bei Jugendämtern Anerkennung. Unsere Sachverständigen (Dr. Lösch und Dr. Thelen) sind von der [IHK Wiesbaden für genetische Abstammungsbegutachtung öffentlich bestellt und vereidigt](/zertifikate).
 
-**Qualitätsmanagement**: Die Qualität unserer Arbeit wurde und wird beständig verbessert. Entsprechend den gesetzlichen Auflagen sind wir nach [DIN EN ISO/IEC 17025:2005](/zertifikate) akkreditiert. Darüber hinaus nehmen wir regelmäßig an [Ringversuchen](/zertifikate) teil.
+**Qualitätsmanagement**: Die Qualität unserer Arbeit wurde und wird beständig verbessert. Entsprechend den gesetzlichen Auflagen sind wir nach [DIN EN ISO/IEC 17025:2018](/zertifikate) akkreditiert. Darüber hinaus nehmen wir regelmäßig an [Ringversuchen](/zertifikate) teil.
 
 [Sprechen Sie mit uns!](/kontakt) Da in unserem Unternehmen ausschließlich gut ausgebildete Fachkräfte arbeiten, finden Sie hier immer einen kompetenten Ansprechpartner. Für Fachfragen steht Ihnen ein Team von Wissenschaftlern zur Verfügung.

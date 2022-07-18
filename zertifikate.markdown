@@ -25,6 +25,8 @@ Nach den Vorgaben des Gendiagnostik-Gesetzes müssen seit dem 01.02.2011 Labore,
 ### DGAB-Zertifikate
 
 {% include dgab-zertifikate.html %}
+<br>
+<br>
 
 ### GEDNAP-Zertifikate
 
