@@ -10,10 +10,20 @@ Gehe zu: [Das Team](#das-team) / [Die Qualitätssicherheit](#die-qualitätssiche
 
 <br><br>
 
-<img src="/assets/Frontansicht.jpg" align="left" width="40%" class="mr-4">
-ID bedeutet "Identification by DNA" und steht für unser Programm: Wir identifizieren von Verwandtschaftsbeziehungen bis zu Kontaminationen von Zellkulturen alles, was sich durch die Analyse von DNA identifizieren lässt. Mit dieser Idee konnten wir uns beim Existenzgründerwettbewerb "FIT FOR BOSS" des Wirtschaftsmagazins "DM" nach ausführlicher Prüfung durch renommierte Fachleute gegen mehrere hundert Mitbewerber durchsetzen und gewinnen.
+<div class="row justify-content-around centered pb-4">
+<div class="col-lg-4 col-md-6 col-9 px-3 py-3">
+<img src="/assets/Frontansicht.jpg" align="left" width="100%" class="mr-4">
+  </div>
+  <div class="col-lg-8 col-12">
+    <p class="text-justify">
+    ID bedeutet "Identification by DNA" und steht für unser Programm: Wir identifizieren von Verwandtschaftsbeziehungen bis zu Kontaminationen von Zellkulturen alles, was sich durch die Analyse von DNA identifizieren lässt. Mit dieser Idee konnten wir uns beim Existenzgründerwettbewerb "FIT FOR BOSS" des Wirtschaftsmagazins "DM" nach ausführlicher Prüfung durch renommierte Fachleute gegen mehrere hundert Mitbewerber durchsetzen und gewinnen.
 
-Sitz der **ID-Labor** GmbH ist die hessische Landeshauptstadt Wiesbaden. Die Räumlichkeiten befinden sich im Gewerbegebiet Petersweg im Stadtteil Mainz-Kastel.
+Sitz der <b>ID-Labor</b> GmbH ist die hessische Landeshauptstadt Wiesbaden. Die Räumlichkeiten befinden sich im Gewerbegebiet Petersweg im Stadtteil Mainz-Kastel.
+
+</p>
+  </div>
+</div>
+
 <br>
 <br>
 
@@ -21,7 +31,7 @@ Sitz der **ID-Labor** GmbH ist die hessische Landeshauptstadt Wiesbaden. Die Rä
 
 <div class="row justify-content-around centered pb-4">
   <div class="col-md-9 col-12">
-    <p class="text-left">
+    <p class="text-justify">
     Gründerinnen und Geschäftsführerinnen der <strong>ID-Labor</strong> GmbH sind Dr. Angelika Lösch und Dr. Kirsten Thelen. Nach Studium, wissenschaftlichen Tätigkeiten und Erfahrungen in der freien Wirtschaft gründeten sie 1998 das <strong>ID-Labor</strong>. Es war eines der ersten Unternehmen in Deutschland, das den Vaterschaftstest auf der Basis moderner molekularbiologischer Methoden einer breiten Öffentlichkeit preiswert zugänglich machte.
 
     Heute zählt die <strong>ID-Labor</strong> GmbH zu den führenden Unternehmen in diesem Wirtschaftszweig und ist ein geschätzter Partner für zahlreiche Gerichte, Jugendämter, Kliniken und Fachärzte.
@@ -39,7 +49,7 @@ Sitz der **ID-Labor** GmbH ist die hessische Landeshauptstadt Wiesbaden. Die Rä
     Dr. Kirsten Thelen
   </div>
   <div class="col-md-9 col-12">
-    <p class="text-left">
+    <p class="text-justify">
     Mit dem Wissen aus jahrzehntelanger Berufserfahrung und zehntausenden Abstammungsbegutachtungen verfügen die Sachverständigen Dr. Lösch und Dr. Thelen über fundierte und qualifizierte Sachkenntnis. So kann für nahezu jede Fragestellung auch eine wissenschaftlich einwandfreie Lösung gefunden werden. Seit Mai 2017 sind sowohl Frau Dr. Thelen als auch Frau Dr. Lösch von der <a href="/zertifikate">IHK Wiesbaden öffentlich bestellte und vereidigte Sachverständige</a> für genetische Abstammungsbegutachtung.
 
     Besonders wichtig ist dem <strong>ID-Labor</strong> Team die Beratungsleistung in Hinblick auf die schwierige persönliche Situation, in der sich Menschen befinden, die einen Familienkonflikt erleben. Es wird großer Wert darauf gelegt, dass auch bei schwierigen persönlichen Fragestellungen einfühlsame und kompetente Gesprächspartner zur Verfügung stehen. Dr. Lösch hat eine Ausbildung zum NLP-Master (DVNLP) und Dr. Thelen ist zertifizierte Mediatorin.
