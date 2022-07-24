@@ -6,7 +6,7 @@ headtitle: Grundlagen zum Vaterschaftstest
 description: Alles wichtige zum DNA-Vaterschaftstest beim ID-Labor
 ---
 
-<img src="/assets/helix.jpg" align="left">
+<img src="/assets/helix.jpeg" align="left">
 
 Das Erbgut jedes Menschen ist einzigartig. Es ist eine immer wieder neue Mischung aus Erbinformationen, die zur Hälfte vom biologischen Vater und zur Hälfte von der biologischen Mutter stammen.
 
