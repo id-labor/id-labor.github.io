@@ -1,36 +1,52 @@
-- name: kostenlose persönliche Beratung
+- name: Personalisiertes Gutachten mit Angabe aller Untersuchungsergebnisse und ggf. biostatistischer Bewertung
   normal: ja
   smart: ja
-- name: Untersuchung von 17-64 DNA-Merkmalen
+  privat: ja
+- name: Gutachten, das zur Vorlage bei Behörden geeignet ist
   normal: ja
   smart: ja
-- name: ausführliches, richtlinienkonformes Gutachten, zur Vorlage bei Behörden geeignet
+  privat: nein
+- name: Untersuchung von bis zu 47 zusätzlichen STRs wenn erforderlich
   normal: ja
   smart: ja
-- name: Vater - Mutter - Kind
+  privat: nein
+- name: kostenfreie Untersuchung der Mutter
   normal: ja
   smart: ja
-- name: Vater - Kind
-  normal: ja
-  smart: nur bei volljährigen Kindern
-- name: Kosten für weitere Person (Vater oder Kind)
+  privat: nein
+- name: Kosten für Gutachten zu weiteren Oersonen
   normal: 270,00€
   smart: 180,00€ (nicht nachträglich)
-- name: kostenloses Testset an die Beteiligten
+  privat: 70,00€ (nicht nachträglich)
+- name: Gutachten an alle Beteiligte
+  normal: ja
+  smart: ja
+  privat: 10,00€
+- name: kostenloses Testset
   normal: ja
   smart: nein
+  privat: nein
+- name: Kosten für Probenentnahmen in unserem Hause
+  normal: inklusive
+  smart: inklusive
+  privat: 30,00€ pro Person
 - name: Hilfe bei der Suche nach geeigneten Stellen für die Probenentnahmen
   normal: ja
   smart: nein
+  privat: nein
 - name: Versand von Entnahmematerial an unterschiedliche Stellen
   normal: ja
   smart: nein
+  privat: nein
 - name: Korrespondenz mit Anwälten, Behörden oder Ärzten
   normal: ja
   smart: nein
+  privat: nein
 - name: getrennte Probenentnahme möglich
   normal: ja
   smart: nein
+  privat: nein
 - name: Ratenzahlung
   normal: ja
   smart: nein
+  privat: nein
