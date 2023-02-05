@@ -4,6 +4,7 @@ permalink: /rezepte
 title: Weihnachts&shy;rezepte
 headtitle: Weihnachtsrezepte
 ---
+
 - [Vanillekipferl (2008)](#-vanillekipferl-2008)
 - [Pfeffernüsse (2009)](#-pfeffernüsse-2009)
 - [Schokoladenkonfekt (2010)](#-schokoladenkonfekt-2010)
@@ -16,8 +17,8 @@ headtitle: Weihnachtsrezepte
 - [Holunder-Kirsch-Ecken (2018)](#-holunder-kirsch-ecken-2018)
 - [Kokosmakronen (2019)](#-kokosmakronen-2019)
 - [Schokoladiger Adventskalender (2020)](#-schokoladiger-adventskalender-2020)
-
-
+- [Bergamotte-Sterne (2021)](#-bergamotte-sterne-2021)
+- [Weihnachtskugeln (2022)](#-weihnachtskugeln-2022)
 
 ### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Vanillekipferl (2008)
 
@@ -31,7 +32,6 @@ headtitle: Weihnachtsrezepte
 - 1 Prise Salz
 
 Die Zutaten zu einem glatten Teig verarbeiten und diesen 2-3 Stunden kühl stellen. Dann aus dem Teig eine Rolle formen, gleichmäßige Stückchen abschneiden und diesen die Form von Kipferln (kleinen Hörnchen) geben. Auf ein vorbereitetes Blech legen und bei 200°C etwa 10 Minuten golden backen. Die noch warmen Kipferl dick mit einer Mischung aus Puder- und Vanillezucker überzuckern.
-
 
 ### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Pfeffernüsse (2009)
 
@@ -54,7 +54,6 @@ Die Butter mit Honig und Zucker im Topf zerlassen und einmal aufkochen. Das Mehl
 Am nächsten Tag aus dem Teig Kugeln von 2 cm Durchmesser formen, in Hagelzucker wälzen, auf ein gefettetes Backblech setzen und bei 175°C im Backofen 12 Minuten backen. Die Pfeffernüsse vor dem Verzehr mit einem Apfelschnitz 3 Tage verschlossen ruhen lassen, damit sie mürbe werden.
 Ergibt ca. 80 Stück.
 
-
 ### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Schokoladenkonfekt (2010)
 
 <img src="/assets/rezepte/schokoladenkonfekt.jpg" class="rezeptbild">
@@ -67,11 +66,9 @@ Ergibt ca. 80 Stück.
 - 300 g Zartbitterschokolade
 - 1/2 Tasse Kakaopulver
 
-
 Butter, Eigelb und gesiebten Puderzucker schaumig rühren und die Orangenschale untermischen. Die Schokolade im Wasserbad schmelzen. Den abgekühlten Tee und die Schokolade unter die Butter-Zucker-Masse rühren und etwas erstarren lassen. Eine flache, eckige Form mit Folie oder Backpapier auslegen. Die Schokoladenmasse etwa 2 cm hoch auf die Folie streichen und im Kühlschrank fest werden lassen.
 
 Aus der Masse 2 cm große Quadrate schneiden und im Kakaopulver wenden.
-
 
 ### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Chili-Schoko-Plätzchen (2011)
 
@@ -88,7 +85,6 @@ Aus der Masse 2 cm große Quadrate schneiden und im Kakaopulver wenden.
 
 Mehl, Backpulver, Kakao, Chili und Salz mischen. Butter und Zucker cremig aufschlagen. Die Mehlmischung nach und nach unterrühren bzw. unterkneten. Die gehackte dunkle Schokolade in die Masse einarbeiten. Aus dem Teig haselnussgroße Kugeln formen und auf einem Backblech im vorgeheizten Backofen (180 Grad, Umluft 160 Grad, Gas Stufe 3) 10 Minuten backen. Plätzchen auf Kuchengitter abkühlen lassen und mit etwas Kakao überstäuben.
 
-
 ### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Himmelstaler (2013)
 
 <img src="/assets/rezepte/himmelstaler.jpg" class="rezeptbild">
@@ -100,15 +96,14 @@ Mehl, Backpulver, Kakao, Chili und Salz mischen. Butter und Zucker cremig aufsch
 - 2 cl Orangenlikör
 - 1 Tütchen Himalaya-Salz (ca. 1/2 TL grob gemahlenes Salz)
 
-
 Die Butter schmelzen und für ein karamelliges Aroma leicht bräunen lassen. Butter abkühlen lassen und dann mit den übrigen Zutaten zu einem glatten Teig verkneten. Den Teig zu Rollen mit etwa 3 cm Durchmesser formen und in Frischhaltefolie gewickelt für 30 min kalt stellen. Die Teigrollen in etwa 8 mm dicke Scheiben schneiden und auf mit Backpapier ausgelegte Backbleche legen. Ungefähr 12-15 min im vorgeheizten Backofen bei 180°C (Umluft 160°C, Gas Stufe 3) hellgelb backen und auf einem Kuchengitter abkühlen lassen.
-
 
 ### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Glühweinsterne (2014)
 
 <img src="/assets/rezepte/gluehweinsterne.jpg" class="rezeptbild">
 
 Teig:
+
 - 400 g Mehl
 - 1/2 Päckchen Backpulver
 - 190 g Zucker
@@ -118,8 +113,8 @@ Teig:
 - 2 Eiweiß
 - 250 g Butterflöckchen
 
-
 Gelee:
+
 - 150 ml kräftigen, trockenen Rotwein
 - 1 Beutel Glühweingewürz
 - 100 g Gelierzucker 1:2
@@ -130,7 +125,6 @@ Alle Zutaten für den Teig rasch zu einem Mürbeteig verkneten. Diesen eine halb
 In der Zwischenzeit Zutaten für das Gelee aufkochen und für 4 Minuten sprudelnd kochen lassen. Gelierprobe machen, Gewürze entfernen und abkühlen lassen.
 
 Den Teig ausrollen und Sterne ausstechen. Aus der Hälfte in der Mitte ein kleineres Sternchen ausstechen, so dass ein Rand bleibt. Plätzchen bei 180 Grad (Umluft 160 Grad) goldbraun backen und abkühlen lassen. Die ungelochten Sterne mit Glühweingelee bestreichen und einen Sternenring darauf setzen. Die fertigen Plätzchen nach Belieben mit Puderzucker bestäuben.
-
 
 ### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Feigenpudding mit Schokolade (2015)
 
@@ -164,6 +158,7 @@ Dazu passt z.B. Schokoladensoße oder Eierlikör.
 - 1 Prise Salz
 
 Ganache:
+
 - 80 g Zartbitterschokolade
 - 100 g Schlagsahne
 - 2 Msp gemahlener Kardamom
@@ -175,12 +170,12 @@ Schokolade mit der Sahne im Wasserbad schmelzen, Espressopulver und Kardamom unt
 der Macaronschalen spritzen. Jeweils eine zweite Schale auflegen und andrücken, so dass sich die Crème bis an den Rand verteilt. Macarons nach Belieben mit Puderzucker oder Zuckerguss verzieren und bis zum Genuss
 kühl lagern.
 
-
 ### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Glühbirne Helene (2017)
 
 <img src="/assets/rezepte/birne.jpg" class="rezeptbild">
 
 Für die Birnen:
+
 - 0,75 l Rotwein
 - 1 Päckchen Glühweingewürz
 - 4 feste Birnen
@@ -189,6 +184,7 @@ Für die Birnen:
 - 100 g Zucker
 
 Für die Schokoladensauce::
+
 - 150 g Sahne
 - 100 g Zartbitterschokolade
 
@@ -200,12 +196,12 @@ Birnen schälen, mit Zitronensaft beträufeln und das Kerngehäuse von unten mit
 
 Den Rotwein auf hoher Stufe einkochen, bis er sirupartig wird. Die Birnen mit Rotweinsirup begießen und mit Schokoladensauce servieren.
 
-
 ### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Holunder-Kirsch-Ecken (2018)
 
 <img src="/assets/rezepte/holunder-kirsch-ecken.jpg" class="rezeptbild">
 
 Für das Gebäck:
+
 - 250 g Butter
 - 150 g Zucker
 - 1 Tütchen Vanillezucker
@@ -217,10 +213,12 @@ Für das Gebäck:
 - 125 ml Holunder-Kirsch-Tee
 
 Für den Zuckerguss:
+
 - 5 EL Holunder-Kirsch-Tee
 - 200 g Puderzucker
 
 Für die Dekoration:
+
 - gehackte Pistazien
 
 Die Butter mit dem Zucker schaumig rühren. Eier dazugeben und unterrühren. Mehl, Backpulver, Zimt und
@@ -231,20 +229,19 @@ hineingeben. 25 min bei 200°C Ober-/Unterhitze backen. Auskühlen lassen.
 Für den Zuckerguss Tee und Puderzucker zu einer zähflüssigen Masse verrühren und auf dem Gebäck
 verstreichen. Noch feucht mit gehackten Pistazien bestreuen. Nach dem Trocknen in Ecken schneiden.
 
-
-
 ### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Kokosmakronen (2019)
 
 <img src="/assets/rezepte/kokosmakronen.jpg" class="rezeptbild">
 
 Für 30 Stück:
+
 - 1 Tütchen Zitronensaft
 - 200 g Kokosraspeln
 - 175 g Zucker
 - 1 Prise Salz
 - 3 Eiweiße
 - 120 g Kakaoglasur
-(für die Dekoration)
+  (für die Dekoration)
 
 Alle Zutaten für den Makronenteig in einen Topf geben, verrühren und langsam bei mittlerer Hitze unter Rühren erwärmen, so dass sich der Zucker löst. Die Masse sollte heiß sein, darf aber nicht kochen. Ihre Konsistenz sollte cremig werden. Ist der Teig zu fest, kann man 2-3 EL Wasser unterrühren. Die Teigmasse leicht abkühlen lassen.
 
@@ -258,6 +255,7 @@ auf einem Kuchengitter fest werden lassen.
 <img src="/assets/rezepte/adventskalenderkuchen.jpg" class="rezeptbild">
 
 Mürbeteig:
+
 - 100g Butter in Flöckchen
 - 200g Mehl
 - 75g Zucker
@@ -266,9 +264,51 @@ Mürbeteig:
 Zutaten zu einem Mürbeteig verkneten, 1 h kalt stellen. In zwei gleiche Portionen teilen und beide zu Kreisen mit 20 cm Durchmesser formen. Platten auf ein mit Backpapier ausgelegte Backbleche legen. Auf einer der Platten mit Messer und Lineal 24 Segmente markieren. Ca. 12‘ bei 200°C (Ober-/Unterhitze) goldgelb backen. Abkühlen lassen, um den unmarkierten Boden einen Tortenring stellen.
 
 Füllung:
+
 - 250g weiße Kuvertüre
 - 60 ml Sahne
 - 50g Pistazien
 - 50g getrocknete Cranberries
 
 Schokolade mit Sahne im Wasserbad schmelzen, nicht zu heiß werden lassen! Pistazien und Cranberries unterheben. Die Masse auf den unmarkierten Boden streichen, den anderen Boden darauf legen, vorsichtig andrücken. Im Kühlschrank Füllung fest werden lassen. Tortenring entfernen, Segmente mit Zuckerschrift in rot und grün mit Zahlen von 1 bis 24 beschriften. Nur ein Stück pro Tag genießen ;-)
+
+### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Bergamotte-Sterne (2021)
+
+<img src="/assets/rezepte/bergamotte.jpeg" class="rezeptbild">
+
+Für ca. 30 Sterne:
+
+- 1 Beutel Earl-Grey-Tee
+- 150 g Mehl
+- 30 g blanchierte, gemahlene Mandeln
+- 50 g Zucker
+- 1 Prise Salz
+- 100 g Butter
+
+Den Inhalt des Teebeutels mit Mehl, Mandeln, Zucker, Salz und Butter zu einem Mürbeteig verkneten und für eine Stunde kalt stellen. Anschließned den Teig ca. 5 mm dick ausrollen und Sterne ausstechen. Diese in Hagelzucker drücken und mit der Zuckerseite nach oben auf ein mit Backpapier ausgelegtes Backblech legen. Im vorgeheizten Backofen bei 190°C und Ober-/Unterhitze backen.
+
+Variante: Wenn man den Tee durch das Mark einer Vanilleschote oder einen Esslöffel Mohn ersetzt, kann man ihn auch zu den Plätzchen trinken.
+
+Für Nicht-Teetrinker: Das zarte Bergamotte-Aroma entsteht durch die Zugabe von Earl-Grey-Tee. Dieser wird traditionell mit dem Öl aus der Schale der Zitrusfrucht "Bergamotte" aromatisiert.
+
+### <a href="#"><img src="/assets/rezepte/kerze.gif" class="kerze" height="30"></a> Weihnachtskugeln (2022)
+
+<img src="/assets/rezepte/Schneebaelle.jpeg" class="rezeptbild">
+
+Für ca. 30 Stück:
+
+- 140 g weiße Schokolade
+- 200 g Kokosmus
+- 30 g weißes Mandelmus
+- Mark einer Vanilleschote
+
+Für's Finish:
+
+- blanchierte Mandelkerne
+- Kokosflocken zum Wälzen
+
+Schokolade, Kokosmus, weißes Mandelmus und das Mark einer Vanilleschote bei niedriger Hitze im Wasserbad schmelzen und mit einem Schneebesen verrühren, bis alle Zutaten flüssig sind. Anschließend sofort vom Herd nehmen und in eine flache Form gießen. Im Kühlschrank etwa 30 Minuten abkühlen lassen.
+
+Nachdem die Masse ausgekühlt aber noch nicht ganz fest geworden ist, zu Kugeln formen. Dafür etwa 1 Teelöffel der Masse nehmen, einen Mandelkern in die Mitte legen und mit den Händen zu einer Kugel rollen. Sofort die fertig gerollten Weihnachtskugeln in Kokosflocken wälzen. Im Kühlschrank aufbewahren.
+
+Bei welcher Konsistenz bzw. Temperatur sie am besten schmecken, ist reine Geschmackssache und sollte sorgfältig getestet werden. Uns munden sie pralinenweich d.h. bei 19 bis 20 Grad Raumtemperatur am besten.
