@@ -16,6 +16,8 @@ Sie interessieren sich für unser Angebot rund um die Abstammungsbegutachtung wi
 
 Einen Auszug aus unserer Preisliste finden Sie auch [hier](/vaterschaftstest/preise). Unter bestimmten Voraussetzungen können wir ihnen den Test zum Sonderpreis von € 299,00 anbieten. Näheres hierzu erfahren Sie bei unseren [aktuellen Angeboten](/vaterschaftstest/preise/angebote).
 
+Interessieren Sie sich für einen Vaterschaftstest zur rein privaten Orientierung, finden Sie auf [vaterschaftstest.org](https://vaterschaftstest.org) unser preiswertes Angebot. Bitte beachten Sie, dass dieser Test ist nicht zur Vorlage bei Ämtern und Behörden geeignet ist.
+
 Sie benötigen ein Gutachten zur Vorlage bei Gericht oder anderen Behörden? <a href="/kontakt">Sprechen Sie uns an!</a> Wir beraten Sie gerne und nennen Ihnen soweit möglich einen Arzt in Ihrer Nähe. Dieser erhält dann sofern gewünscht von uns das Entnahmematerial. Oder vereinbaren Sie einen Termin für die Probenentnahmen in unserem Haus. Hier entstehen Ihnen keine zusätzlichen Kosten.
 
 Die DNA-Analysen lassen sich mit Abstrichen der Mundschleimhaut (sogenannten Speichelproben) durchführen. Diese kann man leicht und schmerzfrei entnehmen. Selbstverständlich sind DNA-Analysen aber auch mit anderen Materialien (z.B. Blut) möglich. Erste Informationen zu alternativen Probenmaterialien finden Sie <a href="/vaterschaftstest/spuren">hier</a>.
