@@ -12,7 +12,7 @@ quelle: Bilder von <a href="https://unsplash.com/@jxnsartstudio?utm_source=unspl
       <div class="card modern-card">
         <a href="/vaterschaftstest"><img src="assets/baby.jpg" class="card-img-top" alt="Baby" width="100%"></a>
         <div class="card-body">
-          <a href="/vaterschaftstest">Gerichtlich verwertbare Abstammungsgutachten
+          <a href="/vaterschaftstest">Gerichtlich verwertbare Ab&zwj;stam&zwj;mungs&zwj;gut&zwj;achten
           ab EUR 299,00*</a><br>
           Der DNA-Test und was Sie darüber wissen sollten.
         </div>
@@ -22,8 +22,8 @@ quelle: Bilder von <a href="https://unsplash.com/@jxnsartstudio?utm_source=unspl
       <div class="card modern-card">
         <a href="/biotech"><img src="assets/labor.jpg" width="100%"></a>
         <div class="card-body">
-          <a href="/biotech">Authentifizierung von humanen Zelllinien,
-          Gewebeproben und autologen Transplantaten</a><br>
+          <a href="/biotech">Authentifizierung von humanen Zell&zwj;linien,
+          Gewebeproben und autologen Trans&zwj;plan&zwj;ta&zwj;ten</a><br>
           Sicher wissen, womit Sie arbeiten.
         </div>
       </div>
