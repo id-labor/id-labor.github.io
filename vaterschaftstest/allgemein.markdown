@@ -6,7 +6,7 @@ headtitle: Vaterschaftstest
 description: Alle wichtigen Informationen rund um Vaterschaftstests im ID-Labor
 ---
 
-Sie interessieren sich für unser Angebot rund um die Abstammungsbegutachtung wie den DNA-Vaterschaftstest oder die Verwandtschaftsanalyse? Zu diesem Service haben wir hier ein spezielles Portal aufgebaut, wo Sie sich ausführlich z.B. über folgende Themen informieren können:
+Sie interessieren sich für unser Angebot rund um die Abstammungsbegutachtung wie den DNA-Vaterschaftstest oder die Verwandtschaftsanalyse? Hier finden Sie ausführliche Informationen zu folgenden Themen:
 
 - [Was ist ein Vaterschaftstest?](/vaterschaftstest/grundlagen)
 - [Wie läuft der Vaterschaftstest ab?](/vaterschaftstest/ablauf)
